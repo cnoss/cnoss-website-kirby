@@ -41,7 +41,9 @@
   --lighten-strong: rgb(255 255 255 / 60%);
   --dark: hsl(0deg 0% 10% / 100%);
   --darker: #000;
+  --darkest: #000;
   --darken: rgb(0 0 0 / 20%);
+  --darken-strong: rgb(0 0 0 / 60%);
 
   /* Functional Colors */
   --color-interaction: var(--lighter);

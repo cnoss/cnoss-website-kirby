@@ -20,7 +20,15 @@
 --------------------------------------------------------------------------- */
 .header {
   padding: var(--s);
+  padding-bottom: var(--fluid-space-l) !important;
+  background-image: url("/assets/static-images/office-cn-bg.webp");
+  background-position: center;
+  background-size: cover;
   text-align: center;
+
+  *{
+    color: var(--darkest) !important;
+  }
 
   @media only screen and (width >=60rem) {
     display: grid;
@@ -34,7 +42,17 @@
 
   a {
     border: none;
-    color: var(--color-decoration);
+
+  }
+
+  nav#main{
+    a{
+      display: inline-block;
+      padding: var(--xs);
+      background-color: var(--darkest) !important;
+      color: var(--color-decoration) !important;
+    }
+    
   }
 
   .title {
