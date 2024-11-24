@@ -1,0 +1,21 @@
+Layout: default
+
+----
+
+Titel: Land Lines
+
+----
+
+Src: https://lines.chromeexperiments.com/
+
+----
+
+Text: Land Lines is an experiment that lets you explore Google Earth satellite imagery through gesture. “Draw” to find satellite images that match your every line; “Drag” to create an infinite line of connected rivers, highways and coastlines.
+
+----
+
+Tags: Interactive Data
+
+----
+
+Uuid: HiTRA9oG37XfnZ9H

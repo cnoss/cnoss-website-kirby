@@ -1,0 +1,21 @@
+The translation would look like this in the Kirby CMS content file format:
+
+Title: Fading contrast
+
+----
+Author: Luis Vidal
+
+----
+Term: WS21-22
+
+----
+Suffix: png
+
+----
+Context: gg
+
+----
+Target: https://lvidaler.pages.coco.study/startercode-gestaltungsportfolio-ws202122/result-freie-arbeit/
+
+----
+StaticImage: /assets/static-images/gg-2022-vidal.png

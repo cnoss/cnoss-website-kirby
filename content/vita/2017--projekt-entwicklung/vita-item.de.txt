@@ -1,0 +1,33 @@
+Title: Projekt: Entwicklung im Studienschwerpunkt «Weaving the Web» // Medieninformatik Master
+
+----
+
+Headline: [Projekt: Entwicklung](https://th-koeln.github.io/mi-master-wtw/projekte/#projekt-entwicklung) im Studienschwerpunkt «Weaving the Web» – Modul im Medieninformatik Master
+
+----
+
+Filename: Projekt: Entwicklung
+
+----
+
+Type: teaching
+
+----
+
+Since: true
+
+----
+
+Year: 2017
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text: In diesem Projekt wird, basierend auf einem bereits erstellten Konzept, ein «Minimum Viable Product» entwickelt oder weiterentwickelt, dokumentiert und nachhaltig bereit gestellt.
+
+----
+
+Uuid: llcxhz70gaszI6gx

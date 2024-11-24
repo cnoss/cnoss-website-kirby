@@ -1,0 +1,33 @@
+Title: Praxisprojekt Seminar
+
+----
+
+Headline: [Praxisprojekt Seminar](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/) – Modul im Medieninformatik Bachelor
+
+----
+
+Type: teaching
+
+----
+
+Since: false
+
+----
+
+Year: 2017
+
+----
+
+Yearuntil: 2023
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text: Das Praxisprojektseminar wird begleitend zum Praxisprojekt im letzten Fachsemester angeboten und unterstützt die Studierenden dabei ihre theoretischen Kenntnisse in praktischen Projekten anzuwenden, die sowohl in Zusammenarbeit mit Unternehmen als auch im Rahmen interner Forschungsprojekte stattfinden. Neben der Entwicklung praxisorientierter Lösungen steht die Anwendung wissenschaftlicher Methoden im Fokus, um Studierende gezielt auf ihre Abschlussarbeit vorzubereiten. Präsentation und Reflexion der Ergebnisse fördern die methodische und wissenschaftliche Kompetenz.
+
+----
+
+Uuid: pUS5xxy8r3FPv0U5

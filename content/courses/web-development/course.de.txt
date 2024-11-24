@@ -1,0 +1,16 @@
+Title: Web Development
+----
+studiengang: Vertiefungsmodul im Studiengang <a href="https://www.medieninformatik.th-koeln.de/study/bachelor/">Medieninformatik (Bachelor-Programm)</a>
+----
+WeitereInfos: 4. Fachsemester
+----
+AngebotenIm: jedes Sommersemester
+----
+website: https://th-koeln.github.io/mi-bachelor-webdevelopment/
+----
+published: true
+----
+tags: webdev, webdevelopment, IoT, websecurity, frontenddevelopment, frameworks, medieninformatik
+----
+Uuid: jdlZ2jtJCS7yC5Vq
+----

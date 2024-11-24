@@ -1,0 +1,33 @@
+Title: Die Schönheit von Zahlen
+
+----
+
+Author: Laura Gonser
+
+----
+
+Term: WS21-22
+
+----
+
+Suffix: gif
+
+----
+
+Context: gg
+
+----
+
+Target: https://glaura.pages.coco.study/startercode-gestaltungsportfolio-ws202122/
+
+----
+
+Home: true
+
+----
+
+StaticImage: /assets/static-images/gg-2022-gonser.gif
+
+----
+
+Uuid: TFCElClVfc7usUrH

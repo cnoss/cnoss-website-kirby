@@ -1,0 +1,23 @@
+Title: Entwicklungsprojekt
+----
+
+Studiengang: Modul im Studiengang <a href="https://www.medieninformatik.th-koeln.de/">Medieninformatik Bachelor</a>
+----
+
+WeitereInfos: 5. Fachsemester
+----
+
+AngebotenIm: jedes Wintersemester
+----
+
+Website: https://cnoss.github.io/entwicklungsprojekt/
+----
+
+Published: true
+----
+
+Tags: webtech, webdev, screendesign, agile
+----
+
+Uuid: M8UaFbdgbyInK0jv
+----

@@ -1,0 +1,17 @@
+Titel: Interwoven Map
+
+----
+
+Src: https://interwoven.map-india.org/about
+
+----
+
+Text: INTERWOVEN uses AI and machine learning to reveal connections between MAP's collection of South Asian textiles and artworks from different cultures.
+
+----
+
+Tags: Art, KI, 3D
+
+----
+
+Uuid: B4DYL84LKsFHI1JV

@@ -1,0 +1,15 @@
+Title: Meine Version vom Prisma
+----
+Author: Joelina Haseloh
+----
+Term: WS21-22
+----
+Context: gg
+----
+Target: https://jhaseloh.pages.coco.study/gestaltungsportfolio-generative-gestaltung-ws-202122/
+----
+StaticImage: /assets/static-images/gg-2022-haseloh.jpg
+
+----
+
+Uuid: sTtYnSxW1Dop80Lw

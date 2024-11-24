@@ -1,0 +1,22 @@
+Title: CURLZ_
+
+----
+Author: Henning Brode
+----
+Suffix: png
+----
+Term: WS21-22
+----
+Context: gg
+----
+Target: <a href="https://hbrode.pages.coco.study/gestaltungsportfolio-ws-202122-henning-brode/">https://hbrode.pages.coco.study/gestaltungsportfolio-ws-202122-henning-brode/</a>
+----
+Home: true
+
+----
+StaticImage: /assets/static-images/gg-2022-brode.png
+
+
+----
+
+Uuid: zKzmcsWt53eHvZru

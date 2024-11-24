@@ -1,0 +1,29 @@
+Title: Generative Gestaltung
+
+----
+
+Studiengang: Kurs im Rahmen des Moduls <a href="https://coco.study/module/120-designing-futures-1/">Designing Futures 1</a> im Studiengang <a href="https://coco.study/">Code & Context</a>
+
+----
+
+WeitereInfos: 1. Fachsemester
+
+----
+
+AngebotenIm: jedes Wintersemester
+
+----
+
+Website: https://cnoss.github.io/generative-gestaltung/
+
+----
+
+Published: true
+
+----
+
+Tags: creativecoding, generativegestaltung, p5.js, generativeart
+
+----
+
+Uuid: 3q4Jgvy3gDy9GjuL

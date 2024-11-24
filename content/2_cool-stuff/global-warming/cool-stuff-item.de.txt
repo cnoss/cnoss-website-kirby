@@ -1,0 +1,17 @@
+Title: Which companies caused global warming?
+
+----
+
+Src: https://www.theguardian.com/environment/interactive/2013/nov/20/which-fossil-fuel-companies-responsible-climate-change-interactive
+
+----
+
+Text: Data Visualization that shows which companies extracted the carbon-based fuels that have caused climate change.
+
+----
+
+Tags: - Data Visualization
+
+----
+
+Uuid: sSWLnuHWWUrcMH3k

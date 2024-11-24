@@ -1,0 +1,25 @@
+Title: Studium Industrial Design an der Universität Essen
+
+----
+
+Headline: Studium [Industrial Design](https://www.folkwang-uni.de/folkwang-universitaet-der-kuenste/gestaltung/industrial-design) an der Universität Duisburg-Essen
+
+----
+
+Type: vita
+
+----
+
+Since: false
+
+----
+
+Year: 1993
+
+----
+
+Year-until: 2001
+
+----
+
+Uuid: wBsE7RwwWGrFA92G

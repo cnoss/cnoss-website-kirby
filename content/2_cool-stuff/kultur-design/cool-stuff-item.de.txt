@@ -1,0 +1,21 @@
+Title: Kultur Design
+
+----
+
+Layout: default
+
+----
+
+Src: http://www.kultur.design/#portfolio
+
+----
+
+Text: Kultur Design is a creative agency specialising in data visualisation, information design, web applications & generative design.
+
+----
+
+Tags: Company
+
+----
+
+Uuid: Hkqvo5ZBJBFCR6gq

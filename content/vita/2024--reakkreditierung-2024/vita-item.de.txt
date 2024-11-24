@@ -1,0 +1,33 @@
+Title: Verantwortlicher Lehrender bei der Reakkreditierung der Medieninformatik Studiengänge
+
+----
+
+Headline: Verantwortlicher Lehrender bei der Reakkreditierung der Medieninformatik Studiengänge
+
+----
+
+Type:
+
+university-related-commitment
+
+Since: false
+
+----
+
+Year: 2023
+
+----
+
+Yearuntil: 2024
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text: [Website zur Reakkreditierung](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/index-reakkreditierung/)
+
+----
+
+Uuid: xQxCUdC0prLcUOlS

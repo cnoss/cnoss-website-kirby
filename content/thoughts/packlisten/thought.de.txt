@@ -1,0 +1,282 @@
+Title: Packlisten
+
+----
+
+Text:
+
+### Hüttenübernachtung im Winter
+- kleine Wasserflasche
+- Hüttenschlafsack
+- Buch
+- Zahnbürste
+- Zahnpasta
+- Handtuch
+- Seife
+- Akkupack
+- Kabel
+- Onesie
+- Unterhose
+- Unterhemd
+- langärmeliges T-Shirt
+- Socken
+- Hausschuhe
+
+### Wintercamping
+
+#### Schlafen
+- dünne Socken
+- dicke Socken
+- lange Unterhose
+- blau-grüne Urlaubshose
+- Skiunterhemd
+- Merino Oberteil mit Kapuze (blau)
+- Fleece Jacke zum Schlafen
+- Schlafhandschuhe
+- Schlafmütze
+- Schlafsack
+- Hüttenschlafsack
+- dicke Decke
+- Kopfkissen
+
+#### Snowboarden
+- Buff
+- Sturmmaske
+- Mütze
+- Snowboard Handschuh
+- Kniebandagen
+- Snowboard
+- Snowboardschuhe
+- Skisocken (2x)
+- Radhose
+- weite kurze Hose
+- 1/4 Unterhose
+- Thermounterhemd kurz (Merino)
+- Thermounterhemd lang dick
+- Thermounterhemd lang dünn
+- Merino Hoodie
+- Merino Radjacke
+- Longsleeve T-Shirt
+- Skibrille
+- Helm
+- Snowboardhose
+- Snowboardjacke
+- Sonnenbrille
+- enge Weste
+- Exoskeleton 
+- Wachs
+- Ersatzschnürsenkel
+- Sonnencreme
+- Lippenfix
+- Kältekappe
+- Stofftaschentuch
+
+#### Kleidung
+- Crocks
+- Winterschuhe
+- Socken (2x)
+- 3/4 Unterhose
+- Unterhose (2)
+- Unterhemd (2)
+- Merino Shirt 
+- Fleece Jacke
+- Stoffjacke dick
+- Handschuhe
+- gemütliche Hose
+- Longsleeve
+- Cap
+
+#### Kleinkrams
+- Batterien Milschschäumer
+- Wäscheleine
+- dreckiges großes Handtuch
+- Stirnleuchte
+- Lampe
+- Bepanthen
+- Massagepistole
+- Kontaktlinsen + Zubehör
+- Taschentücher
+- Nagelcreme
+- Brille / Kontaktlinsen + Etui
+- FFP 2 Masken
+- Schmerzcreme
+- Bepanthen
+- Handy inkl. Ladekabel
+- Kopfhörer
+- Buch / Zeitschrift
+- Rucksäcke & Taschen
+- Musikbox
+- Handschuhe Schneeketten
+- Decke
+- Badehose
+
+#### Essen
+- Kaffee
+- Milch
+- Hafermilch
+- Frischkäse
+- Knäckebrot
+- Oliven
+- Müsli
+- Riegel
+- Chips
+- Nüsse
+- Schokolade
+- Taccos
+- Ritz
+- Kaffeebecher
+
+#### Bus
+- Wasser
+- Gas
+- Arbeitsbretter
+- Sitzbretter
+- Schneeketten, falls erforderlich
+- Stromkabel & Stecker
+- Thermodecke draußen für Scheibe
+- Liegestuhl
+- Klo
+- Dusche
+
+----
+
+Description: 
+
+----
+
+Pubdate: 2024-11-23
+
+----
+
+Layout: default
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2024-11-23 18:50:00
+
+----
+
+Og-type-article-modified-time: 2024-11-23 18:50:00
+
+----
+
+Og-type-article-expiration-time: 2024-11-23 18:50:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: iNW3TltnxPyXsAfM

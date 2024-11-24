@@ -1,0 +1,24 @@
+Layout: default
+
+----
+
+Titel: Kirell Benzi
+
+----
+
+Src: https://www.kirellbenzi.com/art
+
+----
+
+Text: Kirell Benzi is a data artist, science communicator and researcher.
+
+----
+
+Tags:
+
+- Data Art
+- People
+
+----
+
+Uuid: nljJ9eCQL1ioVqnQ

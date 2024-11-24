@@ -1,0 +1,21 @@
+Title: Pathfinder
+
+----
+
+Layout: Default
+
+----
+
+Src: https://onformative.com/work/pathfinder/
+
+----
+
+Text: Pathfinder is a generative approach for the conceptual choreographic research of body movements.
+
+----
+
+Tags: - Research
+
+----
+
+Uuid: Wfvjt2chQzug32Xi

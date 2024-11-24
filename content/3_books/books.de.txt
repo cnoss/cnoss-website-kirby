@@ -1,0 +1,141 @@
+Title: Bücher in der Bib
+
+----
+
+Headline: Bücher in der Bib
+
+----
+
+Text: Hier eine kleine Übersicht über interessante und empfehlenswerte Bücher, die wir in der Bibliothek zu «meinen» Themen haben. Viele davon sind sowohl online sowie als Printversion verfügbar. Viel Spaß!
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2024-11-23 17:10:00
+
+----
+
+Og-type-article-modified-time: 2024-11-23 17:10:00
+
+----
+
+Og-type-article-expiration-time: 2024-11-23 17:10:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: D5AJKIpg4C9gFP5c

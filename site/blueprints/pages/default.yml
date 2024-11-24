@@ -1,0 +1,39 @@
+title: Default Page
+
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    fields:
+      title:
+        label: Title
+        type: text
+        required: true
+      
+      text:
+        label: Text
+        type: textarea
+        size: large
+
+      cover:
+        label: Cover Image
+        type: files
+        max: 1
+
+      gallery:
+        label: Image Gallery
+        type: files
+        multiple: true
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

@@ -1,0 +1,16 @@
+----
+Layout: default
+
+----
+Titel: The Body
+
+----
+Src: https://onformative.com/work/unnamed-soundsculpture/
+
+----
+Text: The moving sound sculpture is based on the recorded motion data of a real person.
+
+----
+Tags: Sound Visualization
+
+----

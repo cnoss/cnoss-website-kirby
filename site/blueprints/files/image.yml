@@ -1,0 +1,13 @@
+title: Image
+
+accept: image/*
+
+create:
+  width: 1800
+  height: 1800
+
+fields:
+  alt:
+    label: Bildunterschrift / Alternativtext
+    type: text
+    width: 1

@@ -1,0 +1,67 @@
+title: Book
+
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    sections:
+      fields:
+        fields:
+          title:
+            label: Title
+            type: text
+            required: true
+
+          target:
+            label: Target
+            type: url
+            required: true
+
+          location:
+            label: Location
+            type: text
+            required: true
+            width: 2/4
+
+          author:
+            label: Author
+            type: text
+            required: true
+            width: 2/4
+
+          year:
+            label: Year
+            type: number
+            required: true
+            min: 1000 # Optional: Ensure valid year range
+            max: 9999
+            width: 2/4
+
+          tags:
+            label: Tags
+            type: tags
+            separator: ","
+            required: false
+            width: 2/4
+
+      image:
+        label: Book Image
+        type: files
+        required: false
+        multiple: true
+        deletable: true
+        layout: cards            
+
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

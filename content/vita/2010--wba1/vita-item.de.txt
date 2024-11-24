@@ -1,0 +1,33 @@
+Title: Web-basierte Anwendungen 1 - Pflichtmodul im Medieninformatik Bachelor
+
+----
+
+Headline: [Web-basierte Anwendungen 1](https://th-koeln.github.io/mi-bachelor-wba1/) – Modul im Medieninformatik Bachelor
+
+----
+
+Type: teaching
+
+----
+
+Since: false
+
+----
+
+Year: 2010
+
+----
+
+Yearuntil: 2018
+
+----
+
+Downloads: - /images/fh-bachelor-gdvk-plakat_excellente_lehre_2013.pdf
+
+----
+
+Das Modul habe ich anfangs mit zusammen mit [Jan Kus](https://jankus.name) gemacht. Wir haben uns ein leicht angefahrenes partizipatives Konzept ausgedacht, mit dem wir 2013 den Lehrpreis der TH Köln gewonnen haben. Yeah!
+
+----
+
+Uuid: hjbYVGShtFVrOTFb

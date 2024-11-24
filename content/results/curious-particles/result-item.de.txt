@@ -1,0 +1,35 @@
+Title: Curious Particles
+
+----
+
+Author: Frithjof Plath
+
+----
+
+Term: WS23/24
+
+----
+
+Target: https://fplath1.pages.coco.study/generative-gestaltung-portfolio-ws-202324/result-freie-arbeit/
+
+----
+
+Context: gg
+
+----
+
+Home: true
+
+----
+
+StaticImage: /assets/static-images/gg-2023-plath-2.jpg
+
+----
+
+Text: Each field is presented with `Field: Value` format followed by `----` to separate each field. As this format is almost plain text, it can be easily read and written by humans and bots. Also, as this is a file format, it allows version control with basic diff support. 
+
+Please note that while values are often single line strings, they can contain multiline text and with Kirby's YAML parser it is possible to save more complex data structures like arrays and nested fields too.
+
+----
+
+Uuid: dGFIWOndciDe578y

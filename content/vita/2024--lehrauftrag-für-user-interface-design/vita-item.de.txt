@@ -1,0 +1,33 @@
+Title: Lehrauftrag für User Interface Design
+
+----
+
+Headline: Lehrauftrag für User Interface Design
+
+----
+
+Type: vita
+
+----
+
+Since: false
+
+----
+
+Year: 2004
+
+----
+
+Yearuntil: 2007
+
+----
+
+Text:
+
+Lehrauftrag im Studiengang [Systems Engineering](https://www.uni-due.de/studienangebote/studiengang.php?id=3) und [Wirtschaftsinformatik](https://www.uni-due.de/studienangebote/studiengang.php?id=110) der Universität Duisburg- Essen. Vorlesungen und Seminare am Lehrstuhl für Wirtschaftsinformatik der Universität Duisburg-Essen zu folgenden Themen:
+- User Centered Interfacedesign
+- Design und Entwicklung interaktiver Applikationen für das digitale Fernsehen
+
+----
+
+Uuid: OuOmLv4ydv5zOHVC

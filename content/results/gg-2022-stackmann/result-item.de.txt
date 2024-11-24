@@ -1,0 +1,24 @@
+Title: 3D-Color-Twist
+
+----
+
+Author: Marvin Stackmann
+
+----
+
+Term: WS21-22
+
+----
+
+Context: gg
+
+----
+
+Target: https://mstackma.pages.coco.study/startercode-gestaltungsportfolio-ws202122/result-farbe/
+
+----
+
+StaticImage: /assets/static-images/gg-2022-stackmann.jpg
+
+----
+

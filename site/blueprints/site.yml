@@ -1,0 +1,138 @@
+title: Site
+tabs:
+  main:
+    icon: document
+    columns:
+      # First column takes 2/3 of the layout
+      # Use columns to divide the layout
+      - width: 2/3
+        sections:
+          fields:
+            fields:
+              additionallinks:
+                label: Additional Links
+                type: structure
+                fields:
+                  linkTitle: 
+                    label: Link Name
+                    type: text
+                  linkTarget:
+                    label: Link Target
+                    type: url
+          pages:
+            type: pages
+            label: Seiten
+            template:
+              - home
+              - cool-stuff
+              - books
+              - vita
+              - playground
+            create:
+              - default
+              - cool-stuff
+              - books
+              - vita
+              - playground
+              
+          results:
+            label: Results
+            type: pages
+            parent: site.find("results")
+            create: 
+              - result-item
+            template:
+              - result-item
+
+          courses:
+            label: Module, Kurse & Veranstaltungen
+            type: pages
+            parent: site.find("courses")
+            create: 
+              - course
+            template:
+              - course          
+
+      # Second column takes 1/3 of the layout
+      - width: 1/3
+        sections:
+          diaries:
+            label: Diaries
+            type: pages
+            parent: site.find("diaries")
+            create: 
+              - diary
+            template:
+              - diary
+
+          checkItOut:
+            label: CheckItOut
+            type: pages
+            parent: site.find("checkItOut")
+            create: 
+              - check-it-out-item
+            template:
+              - check-it-out-item
+
+          thoughts:
+            label: Thoughts
+            type: pages
+            parent: site.find("thoughts")
+            create: 
+              - thought
+            template:
+              - thought           
+           
+  contact:
+    icon: pin
+    label: Kontaktdaten im Footer
+    columns:
+      - width: 2/3
+        fields:
+          contactHeadline:
+            type: headline
+            label: Kontaktdaten
+          mail:
+            type: email
+          phone:
+            type: tel
+          address:
+            type: textarea
+          officeHours:
+            label: Öffnungszeiten
+            type: textarea
+          map:
+            label: Anfahrtskarte
+            type: files
+            max: 1
+      - width: 1/3
+        fields:
+          socialHeadline:
+            type: headline
+            label: Social Media
+          facebook:
+            type: url
+          instagram:
+            type: url
+          youtube:
+            type: url
+            label: YouTube
+  additionalSettings:
+    icon: cog
+    label: Weitere Einstellungen
+    fields:
+      logo:
+        label: Logo Upload
+        type: files
+        max: 1
+      cdnBaseUrl:
+        label: CDN Basis URL
+        type: url
+  seo: seo
+  translation:
+    label: Translation
+    icon: translate
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true

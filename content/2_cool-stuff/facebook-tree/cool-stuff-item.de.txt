@@ -1,0 +1,21 @@
+Layout: default
+
+----
+
+Titel: Facebook Tree
+
+----
+
+Src: https://onformative.com/work/4010-facebook-tree/
+
+----
+
+Text: This abstract data illustration highlights the store’s communication by visualizing the interaction of users online.
+
+----
+
+Tags: Data Art, Data Visualization
+
+----
+
+Uuid: JdLozuuSsw8XIfLO

@@ -1,0 +1,13 @@
+Title: Moiré Scheibe
+----
+Author: Jacob Grote
+----
+Term: WS23/24
+----
+Target: https://jgrote2.pages.coco.study/startercode-gestaltungsportfolio-ws202324/result-freie-arbeit
+----
+Context: gg
+----
+Home: true
+----
+StaticImage: /assets/static-images/moire_scheibe.jpg

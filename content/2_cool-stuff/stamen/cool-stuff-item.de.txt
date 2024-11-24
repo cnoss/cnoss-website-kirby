@@ -1,0 +1,16 @@
+----
+Layout: default
+
+----
+Title: Stamen
+
+----
+Src: https://stamen.com/work/
+
+----
+Text: Stamen is a data visualization and cartography design studio, based in the Mission District of San Francisco and founded by Eric Rodenbeck in 2001.
+
+----
+Tags: Company
+
+----

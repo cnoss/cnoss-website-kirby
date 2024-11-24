@@ -1,0 +1,101 @@
+title: Vita Item
+
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    sections:
+      fields:
+        fields:
+          title:
+            label: Title
+            type: text
+            required: true
+
+          headline:
+            label: Headline
+            type: text
+            required: false
+
+          text:
+            label: Content
+            type: textarea
+            required: false
+
+          type:
+            label: Type
+            type: multiselect
+            options:
+              - vita
+              - award
+              - teaching
+              - university-related-commitment
+              - research
+            required: false
+
+          since:
+            label: Since
+            type: toggle
+            required: false
+            default: false
+            text:
+              - yes: Enabled
+              - no: Disabled
+
+          year:
+            label: Year
+            type: number
+            required: false
+
+          month:
+            label: Month
+            type: number
+            required: false
+
+          day:
+            label: Day
+            type: number
+            required: false
+
+          yearUntil:
+            label: Year until
+            type: number
+            required: false
+
+          monthUntil:
+            label: Month until
+            type: number
+            required: false
+
+          dayUntil:
+            label: Day until
+            type: number
+            required: false
+
+          additionalContent:
+            label: Additional Content
+            type: textarea
+            required: false
+
+          downloads:
+            label: Downloads
+            type: files
+            required: false
+            multiple: true
+            layout: list
+
+       
+
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

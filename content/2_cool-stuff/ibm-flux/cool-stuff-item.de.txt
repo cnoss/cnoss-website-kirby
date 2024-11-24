@@ -1,0 +1,25 @@
+Title: IBM Flux
+
+----
+
+Layout: default
+
+----
+
+Src: https://onformative.com/work/ibm-flux/
+
+----
+
+Text: FLUX is a data-driven art installation visualizing the different facets of the Internet of Things and cognitive technologies.
+
+----
+
+Tags:
+
+- Installation
+- Data Art
+```
+
+----
+
+Uuid: zAdQpJEcP2iohWZW

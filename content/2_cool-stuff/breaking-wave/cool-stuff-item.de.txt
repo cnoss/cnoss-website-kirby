@@ -1,0 +1,24 @@
+Title: Breaking Wave
+
+----
+
+Layout: default
+
+----
+
+Src: https://www.hypersonic.cc/art#/breaking-wave/
+
+----
+
+Text: Breaking Wave is an anamorphic kinetic sculpture created for Biogen-Idec's new headquarters in Cambridge, MA.
+
+----
+
+Tags:
+
+- Data Art
+- Installation
+
+----
+
+Uuid: A2UFW3NPUcNFjCxi

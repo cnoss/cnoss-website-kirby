@@ -1,0 +1,25 @@
+Title: Yoga für die Augen
+
+----
+
+Author: Jan Gebert
+
+----
+
+Term: WS21-22
+
+----
+
+Context: gg
+
+----
+
+Target-url: [jgebert.pages.coco.study/startercode-gestaltungsportfolio-ws202122/result-freie-arbeit-jg/](https://jgebert.pages.coco.study/startercode-gestaltungsportfolio-ws202122/result-freie-arbeit-jg/)
+
+----
+
+StaticImage: /assets/static-images/gg-2022-gebert.jpg
+
+----
+
+Uuid: uTPaNYgl4Glp6wqA

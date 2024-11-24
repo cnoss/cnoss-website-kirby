@@ -1,0 +1,17 @@
+Titel: Munken Creator
+
+----
+
+Https: //colab.munken.com/munkencreator
+
+----
+
+Text: The Munken Creator uses browser-based reactive user interface that allows the user to see changes in real time and adjust the design according to their preferences.
+
+----
+
+Tags: Art, Typo, Generative Gestaltung
+
+----
+
+Uuid: ggg65iD51PnVrFKs

@@ -1,0 +1,38 @@
+name: Headline, Text & Image
+icon: list-bullet
+label: "{{ headline }}"
+tabs:
+  content:
+    fields:
+      headline:
+        label: Überschrift
+        type: text
+      text:
+        label: Mengentext
+        type: textarea
+        size: large
+
+      useVideo:
+        label: Video oder Bild nutzen
+        type: toggle
+        default: true
+        text:
+          - Video wird genutzt
+          - Video wird nicht genutzt
+      video:
+        type: text
+        label: URL Snippet des Videos
+        help: Ohne Domainname (https://www.viebahn.com)
+        required: false
+        when:
+          useVideo: true
+      image:
+        type: files
+        label: Bild
+        required: false
+        min: 0
+        max: 1
+        empty: Bild hinzufügen
+        uploads: image
+        when:
+          useVideo: false        

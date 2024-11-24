@@ -1,0 +1,29 @@
+Title: Screendesign
+
+----
+
+Headline: [Screendesign](https://th-koeln.github.io/mi-bachelor-screendesign/) – Modul im Medieninformatik Bachelor
+
+----
+
+Type: teaching
+
+----
+
+Since: true
+
+----
+
+Year: 2017
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text: Das Modul vermittelt Medieninformatiker:innen die Kompetenzen, Designkonzepte nicht nur technisch umzusetzen, sondern auch im kreativen Entstehungsprozess aktiv mitzuwirken. Dabei lernen sie, die grundlegenden Prinzipien eines Gestaltungskonzepts zu verstehen, Implementierungsmöglichkeiten abzuwägen und ein Gestaltungssystem so zu strukturieren, dass es in die Entwicklung eingebracht werden kann.
+
+----
+
+Uuid: CQBM8Z1oO6XzV5ow

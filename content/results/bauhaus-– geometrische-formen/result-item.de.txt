@@ -1,0 +1,29 @@
+Title: Bauhaus – Geometrische Formen
+
+----
+
+Author: Mario Siry
+
+----
+
+Term: WS23/24
+
+----
+
+Target: https://msiry.pages.coco.study/startercode-gestaltungsportfolio-ws-202324-manuel-mario-siry/result-freie-arbeit/
+
+----
+
+Context: gg
+
+----
+
+Home: true
+
+----
+
+StaticImage: /assets/static-images/gg-2023-siry-molnar.jpg
+
+----
+
+Uuid: d0QW2Lbo05bAyKxV

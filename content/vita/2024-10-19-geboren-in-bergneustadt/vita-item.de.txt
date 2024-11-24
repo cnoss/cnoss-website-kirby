@@ -1,0 +1,25 @@
+Title: geboren in Bergneustadt
+
+----
+
+Headline: geboren in Bergneustadt
+
+----
+
+Type: vita
+
+----
+
+Year: 1972
+
+----
+
+Month: 5
+
+----
+
+Day: 4
+
+----
+
+Uuid: uNxXi3On1QXqwSbx

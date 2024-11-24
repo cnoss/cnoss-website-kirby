@@ -1,0 +1,21 @@
+Title: ChromaPlural
+
+----
+
+Layout: default
+
+----
+
+Src: https://vimeo.com/136909633
+
+----
+
+Text: Interactive parametric design and simulation environment for tile patterns.
+
+----
+
+Tags: Industry, Tiles
+
+----
+
+Uuid: tkmfA5YBUncdyIeT

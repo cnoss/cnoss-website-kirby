@@ -1,0 +1,16 @@
+Title: Spiraling through Rotating Lines
+----
+Author: Tim Artarov
+----
+Term: WS20-21
+----
+Context: gg
+----
+Target: https://tartarov.pages.coco.study/startercode-gestaltungsportfolio-2020/result-punkt-linie-flaeche/
+----
+StaticImage: /assets/static-images/gg-2021-artarov.jpg
+
+
+----
+
+Uuid: lopu3d3UomZoDJ5w

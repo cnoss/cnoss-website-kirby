@@ -1,0 +1,18 @@
+Title: Audioreactive and Generatively Generated 3D-Model
+----
+Author: Jonas Anetzberger
+----
+Term: Winter Term 2020-2021
+----
+Context: Foundations of Design
+----
+Target: https://janetzbe.pages.coco.study/startercode-designportfolio-2020/
+----
+Home: Yes
+----
+
+StaticImage: /assets/static-images/gg-2021-anetzberger.jpg
+
+----
+
+Uuid: 69xHAhNJEzK7sqRn

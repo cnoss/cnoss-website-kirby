@@ -1,0 +1,41 @@
+Title: Netzbasierte Anwendungen
+
+----
+
+Headline: Netzbasierte Anwendungen – Modul im Grundstudium der Informatik Studiengänge
+
+----
+
+Type: teaching
+
+----
+
+Since: false
+
+----
+
+Year: 2007
+
+----
+
+Yearuntil: 2009
+
+----
+
+Pflichtveranstaltung-im-grundstudium-der-informatik-studiengaenge-am-campus-gummersbach-meine-erste-veranstaltung-vor-wirklich-v:
+
+Technische Grundlagen; Geschichte des Web; (X)HTML, CSS und Javascript; XML, DTD und XSL, Web 2.0; Ajax und Co.; Information, Navigation, Transaktion Barrierefreiheit, Sicherheit Serverseitige Technologien
+
+Ein schönes Feedback kam im Nachgang via Mail. So schlimm kann es also nicht gewesen sein:
+
+> Hallo Herr Noss,
+die Klausurergebnisse sind ja draussen, ich bin durch, und ich nehme mir darum jetzt einfach mal raus, folgendes zu bemerken:
+Vielen Dank für Ihre Vorlesung!
+> Sehr inspirierend zum Teil und mitunter die interessanteste Veranstaltung bisher.
+Ihre lockere Art die Vorlesung zu gestalten ist (nicht nur bei mir) ziemlich gut angekommen. Viele meiner Kommilitonen sind der Meinung, die Vorlesung bei Ihnen sei eine der angenehmsten bisher gewesen. Und damit meine ich nicht, man würde dort nur relaxt rumsitzen, sondern beziehe mich einfach auf Ihre Art und Weise die Vorlesung zu gestalten.
+So, will mich damit ja nich einschleimen (bringt ja eh nix mehr jetzt), dachte nur Sie hätten vielleicht auch Interesse an einer Art "detaillierterem" Feedback.
+Grüße.
+
+----
+
+Uuid: ASqf8d2QP59L8JQ5

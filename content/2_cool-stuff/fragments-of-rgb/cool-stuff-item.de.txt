@@ -1,0 +1,24 @@
+Title: Fragments of RGB
+
+----
+
+Layout: default
+
+----
+
+Src: https://onformative.com/work/fragments-of-rgb/
+
+----
+
+Text: An exploration of human perception through engagement, distortion and dissolution.
+
+----
+
+Tags:
+
+- Installation
+```
+
+----
+
+Uuid: 7PRu9I0RLwYTgU9f

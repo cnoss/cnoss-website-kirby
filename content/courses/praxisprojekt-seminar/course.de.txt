@@ -1,0 +1,28 @@
+Title: Practical Project Seminar
+----
+
+Studiengang: Course as part of the module «Practical Project» in study program <a href="https://www.medieninformatik.th-koeln.de/study/bachelor/">Media Informatics (Bachelor's Program)</a>
+
+----
+
+WeitereInfos: 6. term
+
+----
+
+AngebotenIm: is held every term
+
+----
+
+Website: https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/
+
+----
+
+Published: false
+
+----
+
+Tags: scientificwork, wissenschaftlichesSchreiben, medieninformatik
+
+----
+
+Uuid: wNvXQWbwhBhX3RMV

@@ -1,0 +1,15 @@
+----
+Title: Seegras im Sog der Strömung
+----
+Author: Marc Unkelbach
+----
+Term: WS21-22
+----
+Context: gg
+----
+Target: https://munkelb1.pages.coco.study/gg-ws-202122-gestaltungsportfolio/
+----
+Home: true
+----
+StaticImage: /assets/static-images/gg-2022-unkelbach.jpg
+

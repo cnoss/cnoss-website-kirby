@@ -1,0 +1,29 @@
+Title: Lehrpreis der Fachhochschule Köln
+
+----
+
+Headline: Lehrpreis der Fachhochschule Köln
+
+----
+
+Type: award
+
+----
+
+Since: false
+
+----
+
+Year: 2013
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text: Das Konzept zum Modul [Web-basierte Anwendungen 1](https://th-koeln.github.io/mi-bachelor-wba1/) ist mit dem Lehrpreis der TH Köln ausgezeichnet worden. 
+
+----
+
+Uuid: JLDpJ3veSwBWKCZW

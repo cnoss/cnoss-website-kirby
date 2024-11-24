@@ -1,0 +1,198 @@
+Title: Florale Bézierkurven
+
+----
+
+Headline: Florale Bézierkurven
+
+----
+
+Text: Dieser Sketch versucht, durch Variationen von Bézierkurven florale Muster und Formen in einer minimalistisch-abstrakten Darstellung abzubilden. Es entstehen kompakte, beinahe organisch wirkende Strukturen mit strahlenförmigen Linien, die an einen dichten Blütenkern erinnern. Je nach Kombination der Zufallswerte können auch klare, kreisförmige Kränze aus Bézierkurven entstehen, die die Eleganz von Blütenkronen widerspiegeln. Die sanften, monochromen Linien betonen die Harmonie und natürliche Anmut der Formen, während die leichte Variation der Kurven dynamische Texturen erzeugt.
+
+----
+
+Fgcolor: #1a1a1a
+
+----
+
+Bgcolor: #ffeeca
+
+----
+
+Layout: playground
+
+----
+
+Blendmode: darken
+
+----
+
+Type: generative-gestaltung
+
+----
+
+Year: 2024
+
+----
+
+Month: 11
+
+----
+
+FeaturedImage: - file://O7sL4MKotV2jAvPm
+
+----
+
+Images:
+
+- file://wXg1JblitoWkqzve
+- file://O7sL4MKotV2jAvPm
+- file://NS660I0lgnDmQi19
+- file://fVoFpBYy9ZvUhwHB
+- file://S6rqe3dlHVl7mFaa
+- file://IMp9nxX3TQv1E7Hp
+- file://RguAWXJr4ldsC44f
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Media:
+
+- 
+  title: null
+  image: [ ]
+  _id: e7fb213f-e7f0-477f-be51-6e14a1e97bf2
+
+----
+
+Uuid: nEDzPGbfqz9CSEWL

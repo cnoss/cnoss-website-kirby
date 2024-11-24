@@ -1,0 +1,24 @@
+Title: Collide
+
+----
+
+Layout: Default
+
+----
+
+Src: https://onformative.com/work/collide/
+
+----
+
+Text: Collide is an exploration of the senses by transforming recorded motion data into abstract visuals and sound.
+
+----
+
+Tags:
+
+- Installation
+- Data Art
+
+----
+
+Uuid: AZSyugIholLa06Nx

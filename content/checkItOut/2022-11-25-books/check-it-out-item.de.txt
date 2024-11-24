@@ -1,0 +1,9 @@
+Title: Bücher in der Bib der TH Köln
+
+----
+
+Text: Ich habe mal kleine Übersicht über [interessante und empfehlenswerte Bücher](/books) zusammengestellt, die wir am Campus Gummersbach in der Bibliothek zu «meinen» Themen haben. Viele davon sind sowohl online sowie als Printversion verfügbar. Viel Spaß!
+
+----
+
+Uuid: 2WhPxEKsohTkZ4XU

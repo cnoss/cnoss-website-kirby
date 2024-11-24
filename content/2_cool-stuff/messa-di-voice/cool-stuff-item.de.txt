@@ -1,0 +1,21 @@
+Layout: default
+
+----
+
+Titel: Messa di Voce
+
+----
+
+Src: https://vimeo.com/2892576
+
+----
+
+Text: Messa di Voce augments the speech, shouts and songs produced by two virtuoso vocalists with real-time interactive visualizations.
+
+----
+
+Tags: Performance
+
+----
+
+Uuid: 8QR7Q9kbR3m5GUbI

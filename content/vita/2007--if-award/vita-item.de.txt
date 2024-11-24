@@ -1,0 +1,29 @@
+Title: iF Communication Design Award
+
+----
+
+Headline: iF Communication Design Award
+
+----
+
+Type: award
+
+----
+
+Since: false
+
+----
+
+Year: 2007
+
+----
+
+Downloads:
+
+/uploads/
+```
+Bitte beachten Sie, dass Kirby keine booleschen Werte wie "false" für Seiteneigenschaften unterstützt. Wenn "since" ein benutzerdefiniertes Feld ist und Sie "false" hinzufügen möchten, stellen Sie sicher, dass Ihr Kirby-System dieses benutzerdefinierte Feld und den booleschen Wert unterstützt.
+
+----
+
+Uuid: sPI6LVTPV1zuCbtW

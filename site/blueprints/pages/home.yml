@@ -1,0 +1,141 @@
+title: Home
+icon: home
+options:
+  changeTemplate: false
+  changeStatus: false
+  delete: false
+tabs:
+  main:
+    icon: document
+    sections:
+      fields:
+        fields:
+          headlineVideo:
+            label: Headline
+            type: text
+            required: false
+          subtitleVideo:
+            label: Subtitle
+            type: text
+          herovideo:
+            type: structure
+            label: Videos für Hero Section
+            width: 1/2
+            help: Wenn mehrere Videos hinterlegt sind, wird eins zufällig ausgewählt
+            fields:
+              url:
+                label: Url
+                type: url
+                required: true
+              startTime:
+                label: Startzeit in Sekunden
+                type: number
+                default: 0
+              playbackTime:
+                label: Zeit in Sekunden, wie lange es abgespielt werden soll
+                type: number
+            when:
+              useHerovideo: true
+          heroimage:
+            type: files
+            label: Heroimage
+            min: 1
+            max: 1
+            width: 1/2
+            required: true
+            uploads: image
+            when:
+              useHerovideo: false
+          useHerovideo:
+            label: Kind of the Hero
+            type: toggle
+            width: 1/2
+            text:
+              - Use image
+              - Use video
+          lineBlock2:
+            type: line
+          infoBlockMissionStatement:
+            type: headline
+            label: Mission Statement
+          headlineMissionStatement:
+            label: Headline
+            type: text
+            required: false
+          linkTitleMissionStatement:
+            label: Link Title
+            type: text
+            required: false
+          textMissionStatement:
+            label: Text
+            type: textarea
+          lineBlock3:
+            type: line
+          infoBlockSolutions:
+            type: headline
+            label: Individuelle Lösungen
+          headlineSolutions:
+            label: Headline
+            type: text
+            required: false
+          linkTitleSolutions:
+            label: Link Title
+            type: text
+            required: false
+          subtiteSolutions:
+            label: Subtitle
+            type: text
+            required: false
+          textSolutions:
+            label: Text
+            type: textarea
+          imageSolutions:
+            layout: cards
+            type: files
+            label: Image
+            min: 1
+            max: 1
+            width: 1/2
+            required: true
+            uploads: image
+          lineBlock4:
+            type: line
+          infoBlockProducts:
+            type: headline
+            label: Unsere Produkte
+          headlineProducts:
+            label: Headline
+            type: text
+            required: false
+          linkTitleProducts:
+            label: Link Title
+            type: text
+            required: false
+          textProducts:
+            label: Text
+            type: textarea
+          lineBlock5:
+            type: line
+          infoBlockNews:
+            type: headline
+            label: Aktuelles
+          headlineNews:
+            label: Headline
+            type: text
+            required: false
+          linkTitleNews:
+            label: Link Title
+            type: text
+            required: false
+          textNews:
+            label: Text
+            type: textarea
+        type: fields
+  seo: seo
+  translation:
+    label: Translation
+    icon: translate
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true

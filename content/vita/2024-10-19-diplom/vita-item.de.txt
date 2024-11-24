@@ -1,0 +1,29 @@
+Title: Abschluss zum Diplom Designer
+
+----
+
+Filename: Abschluss zum Diplom Designer
+
+----
+
+Headline: Abschluss des Studiums zum Diplom Designer
+
+----
+
+Type: vita
+
+----
+
+Since: 
+
+----
+
+Year: 2001
+
+----
+
+Text: Abschluss zum Diplom Designer mit dem Diplomthema: „E-Dötzchen und Klickmeister. Gestaltungsstrategien für unterschiedlich geübte Nutzergruppen.“, betreut von [Prof. Dr. Ralph Bruder](https://de.wikipedia.org/wiki/Ralph_Bruder) und [Prof. Claudius Lazzeroni](https://de.wikipedia.org/wiki/Claudius_Lazzeroni).
+
+----
+
+Uuid: cR3fmGSM05BalMGJ

@@ -1,0 +1,25 @@
+Title: Bewegung im Raum mit Sinus und Cosinus
+
+----
+
+Author: Jakob Lieser
+
+----
+
+Term: WS20-21
+
+----
+
+Context: gg
+
+----
+
+Target: <a href="https://jlieser.pages.coco.study/startercode-gestaltungsportfolio-2020/result-freie-arbeit/">https://jlieser.pages.coco.study/startercode-gestaltungsportfolio-2020/result-freie-arbeit/</a>
+
+----
+
+StaticImage: /assets/static-images/gg-2021-lieser.jpg
+
+----
+
+Uuid: uPg0LpAmv2sF3WsJ

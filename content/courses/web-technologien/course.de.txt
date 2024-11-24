@@ -1,0 +1,15 @@
+Title: Web Technologies
+----
+Studiengang: Modul in den Studiengängen <a href="https://www.medieninformatik.th-koeln.de/study/master/">Medieninformatik (Master-Programm)</a> und <a href="https://www.th-koeln.de/en/academics/digital-sciences-masters-program_83005.php">Digital Sciences</a>
+----
+WeitereInfos: 2. Fachsemester
+----
+AngebotenIm: jedes Sommersemester
+----
+Website: https://www.medieninformatik.th-koeln.de/study/master/moduls/ma_wtw_modul_web-technologien/
+----
+Published: true
+----
+Tags: webtech, webdev, weavingtheweb, sustainableweb, leanweb
+----
+Uuid: e2UDKzeUX72sXQUE

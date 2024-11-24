@@ -1,0 +1,36 @@
+Title: Verantwortlicher Lehrender bei der Reakkreditierung der Medieninformatik Studiengänge
+
+----
+
+Headline: Verantwortlicher Lehrender bei der Reakkreditierung der Medieninformatik Studiengänge
+
+----
+
+Type: university-related-commitment
+
+----
+
+Since: 
+
+----
+
+Year: 2016
+
+----
+
+Yearuntil: 2017
+
+----
+
+Downloads: /uploads/
+
+----
+
+Text:
+
+- [Website zur Reakkreditierung](https://th-koeln.github.io/mi-2017/)
+- [Git Repo zur Reakkreditierung](https://github.com/th-koeln/mi-2017)
+
+----
+
+Uuid: KYHCCRgbKlJ1a1GJ

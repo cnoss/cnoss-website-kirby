@@ -1,0 +1,25 @@
+Title: Frontend Development - Teilmodul im Vertiefungsmodul Web Development
+
+----
+
+Headline: [Frontend Development](https://th-koeln.github.io/mi-bachelor-webdevelopment/frontend-development/) – Modul im Medieninformatik Bachelor
+
+----
+
+Type: teaching
+
+----
+
+Since: true
+
+----
+
+Year: 2017
+
+----
+
+Downloads: /uploads/
+
+----
+
+Uuid: 0uzjPwoabwOrqSRi

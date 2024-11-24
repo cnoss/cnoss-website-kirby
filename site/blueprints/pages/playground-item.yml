@@ -1,0 +1,102 @@
+title: Playground Item
+
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    sections:
+      fields:
+        fields:
+          title:
+            label: Title
+            type: text
+
+          headline:
+            label: Headline
+            type: text
+            required: false
+          text:
+            label: Text
+            type: textarea
+            required: false
+          fgcolor:
+            label: Foreground Color
+            type: text
+            required: false
+            width: 1/2
+          bgcolor:
+            label: Background Color
+            type: text
+            required: false
+            width: 1/2
+          layout:
+            label: Layout
+            type: select
+            options:
+              - playground
+              - default
+            required: false
+
+          blendmode:
+            label: Blendmode
+            type: select
+            options:
+              - darken
+            required: false
+            width: 1/2
+          type:
+            label: Type
+            type: multiselect
+            options:
+              - generative-gestaltung
+            required: false
+            width: 1/2
+          year:
+            label: Year
+            type: number
+            required: false
+            width: 1/2
+          month:
+            label: Month
+            type: number
+            required: false
+            width: 1/2
+          featuredImage:
+            label: Featured Image
+            type: files
+            required: false
+            multiple: false
+            layout: cards
+            template: image # Show only image files            
+          images:
+            label: Image
+            type: files
+            required: false
+            multiple: true
+            layout: cards
+            sortable: true 
+
+          downloads:
+            label: Downloads
+            type: files
+            required: false
+            multiple: true
+            layout: list
+            directory: uploads/playground # Adjust path to match your Kirby setup
+
+
+       
+
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

@@ -1,0 +1,49 @@
+title: Thoughts
+options:
+  changeTemplate: false
+  changeStatus: false
+  delete: false
+  
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    sections:
+      fields:
+        fields:
+
+          title:
+            label: Title
+            type: text
+            required: true
+
+          headline:
+            label: Headline
+            type: text
+
+          text:
+            label: Text
+            type: textarea
+            size: medium            
+
+      pages:
+        type: pages
+        label: Thought Items
+        template:
+          - thought
+        create:
+          - thought         
+
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

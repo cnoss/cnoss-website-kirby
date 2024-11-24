@@ -1,0 +1,29 @@
+Title: Friendly Dots
+
+----
+
+Author: Frithjof Plath
+
+----
+
+Term: WS23/24
+
+----
+
+Target: https://fplath1.pages.coco.study/generative-gestaltung-portfolio-ws-202324/result-farbe/
+
+----
+
+Context: GG
+
+----
+
+Home: True
+
+----
+
+StaticImage: /assets/static-images/gg-2023-plath.jpg
+
+----
+
+Uuid: nBG7tjAmNBVbJZAa

@@ -1,0 +1,73 @@
+Title: Vita
+
+----
+
+Text: 
+
+----
+
+Cover: 
+
+----
+
+Gallery: 
+
+----
+
+Meta-image: 
+
+----
+
+Og-image: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2024-11-23 19:05:00
+
+----
+
+Og-type-article-modified-time: 2024-11-23 19:05:00
+
+----
+
+Og-type-article-expiration-time: 2024-11-23 19:05:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-image: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: QfnmukOOvONPZY2K

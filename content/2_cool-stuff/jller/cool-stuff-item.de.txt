@@ -1,0 +1,24 @@
+Layout: Default
+
+----
+
+Titel: Jller
+
+----
+
+Src: https://www.allesblinkt.com/projects/iller/
+
+----
+
+Text: Jller is part of an ongoing research project in the fields of industrial automation and historical geology.
+
+----
+
+Tags:
+
+- Installation
+- Research
+
+----
+
+Uuid: sAJoFRaopre7nQfQ

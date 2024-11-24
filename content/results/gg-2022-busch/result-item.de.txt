@@ -1,0 +1,29 @@
+Title: Zen
+
+----
+
+Author: Daniel Busch
+
+----
+
+Term: WS21-22
+
+----
+
+Suffix: png
+
+----
+
+Context: gg
+
+----
+
+Target: [Link](https://dbusch.pages.coco.study/startercode-gestaltungsportfolio-ws202122/)
+
+----
+
+StaticImage: /assets/static-images/gg-2022-busch.png
+
+----
+
+Uuid: EwH4ajG8ugxmdIXu

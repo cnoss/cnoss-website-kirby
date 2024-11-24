@@ -1,0 +1,25 @@
+Title: Banale Goldene Spirale?
+
+----
+
+Author: Christian Schwind
+
+----
+
+Term: WS20-21
+
+----
+
+Context: gg
+
+----
+
+Target: https://cschwind.pages.coco.study/startercode-gestaltungsportfolio-2020/result-freie-arbeit/
+
+----
+
+StaticImage: /assets/static-images/gg-2021-schwind.jpg
+
+----
+
+Uuid: kAUuluYToS0XJ8WX

@@ -1,0 +1,23 @@
+Title: Pen & Paper
+----
+
+Studiengang: Kurs im Rahmen des Moduls <a href="https://www.medieninformatik.th-koeln.de/study/bachelor/moduls/ba_einfhrungindiemedieninformatik/">Einführung in die Medieninformatik</a> im Studiengang <a href="https://www.medieninformatik.th-koeln.de/study/bachelor/">Medieninformatik (Bachelor-Programm)</a>
+----
+
+WeitereInfos: 1. Semester
+----
+
+AngebotenIm: zur Zeit nicht im Angebot
+----
+
+Website: https://cnoss.github.io/pen-and-paper/
+----
+
+Published: true
+----
+
+Tags: Visual Thinking, Sketchnotes, UIsketching, sketching, medieninformatik
+----
+
+Uuid: wQlrjiBF2r4XCuxL
+----
