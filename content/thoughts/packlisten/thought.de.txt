@@ -91,13 +91,11 @@ Text:
 - dreckiges großes Handtuch
 - Stirnleuchte
 - Lampe
-- Bepanthen
 - Massagepistole
 - Kontaktlinsen + Zubehör
 - Taschentücher
 - Nagelcreme
 - Brille / Kontaktlinsen + Etui
-- FFP 2 Masken
 - Schmerzcreme
 - Bepanthen
 - Handy inkl. Ladekabel
@@ -136,6 +134,7 @@ Text:
 - Liegestuhl
 - Klo
 - Dusche
+- Wäscheleine
 
 ----
 
