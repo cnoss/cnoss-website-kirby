@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 /* stylelint-disable selector-class-pattern */
 @media only screen and (width >=60rem) {
   p,
@@ -62,6 +63,7 @@
     font-weight: var(--fw-medium);
   }
 
+
   .subtitle,
   .subtitle a {
     font-size: var(--m);
@@ -119,7 +121,6 @@
     }
   }
 
-  /* stylelint-disable-next-line no-descending-specificity */
   a {
     color: var(--lighter);
   }
@@ -276,7 +277,6 @@ table {
   &--small {
     font-size: calc(var(--m) * 0.8);
 
-    /* stylelint-disable-next-line no-descending-specificity */
     a {
       border-bottom: none;
     }
@@ -333,7 +333,6 @@ table {
       cursor: pointer;
     }
 
-    /* stylelint-disable-next-line no-descending-specificity */
     a {
       color: var(--dark);
       font-weight: var(--fw-medium);
@@ -390,19 +389,16 @@ table {
       }
     }
 
-    /* stylelint-disable-next-line no-descending-specificity */
     a {
       color: var(--light);
       font-weight: var(--fw-medium);
     }
 
-    /* stylelint-disable-next-line no-descending-specificity */
     .headline a {
       color: var(--darker);
       font-weight: var(--fw-bold);
     }
 
-    /* stylelint-disable-next-line no-descending-specificity */
     .info {
       padding: var(--xs) 0 var(--m) 0;
       transition: padding var(--tr-fast);
@@ -423,7 +419,6 @@ table {
   overflow: hidden auto;
   height: 100vh;
 
-  /* stylelint-disable-next-line no-descending-specificity */
   &>img {
     display: block;
   }
@@ -448,7 +443,6 @@ table {
       }
     }
 
-    /* stylelint-disable-next-line no-descending-specificity */
     a {
       border-width: var(--border-width-s);
       font-weight: 300;
@@ -550,7 +544,6 @@ h2+.date {
 .featured {
   padding: var(--fluid-space-l);
 
-  /* stylelint-disable-next-line no-descending-specificity */
   h3 {
     font-weight: var(--fw-medium);
   }
@@ -628,7 +621,6 @@ nav#main {
 /* CTA
 --------------------------------------------------------------------------- */
 
-/* stylelint-disable-next-line no-descending-specificity */
 .cta {
   position: relative;
   display: inline-block;
