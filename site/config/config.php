@@ -9,7 +9,7 @@ return [
     ]
   ],
   
-  'languages' => true,
+  'languages' => false,
   'debug' => true
 
 ];
