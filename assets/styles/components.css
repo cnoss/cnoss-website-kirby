@@ -712,3 +712,12 @@ nav#main {
     grid-template-columns: max-content 1fr;
   }
 }
+
+
+/* Text Description
+--------------------------------------------------------------------------- */
+
+.text-desc{
+  max-width: var(--max-width-text);
+  margin-bottom: var(--fluid-space-m);
+}

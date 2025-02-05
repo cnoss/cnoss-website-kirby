@@ -34,9 +34,10 @@ Text:
 - Schlafhandschuhe
 - Schlafmütze
 - Schlafsack
-- Hüttenschlafsack
+- Innenschlafsack
 - dicke Decke
 - Kopfkissen
+- Heizdecke
 
 #### Snowboarden
 - Buff
@@ -64,10 +65,8 @@ Text:
 - enge Weste
 - Exoskeleton 
 - Wachs
-- Ersatzschnürsenkel
 - Sonnencreme
 - Lippenfix
-- Kältekappe
 - Stofftaschentuch
 
 #### Kleidung
@@ -106,6 +105,7 @@ Text:
 - Handschuhe Schneeketten
 - Decke
 - Badehose
+- Besen mit langem Stil
 
 #### Essen
 - Kaffee
@@ -126,6 +126,7 @@ Text:
 #### Bus
 - Wasser
 - Gas
+- Pfanne
 - Arbeitsbretter
 - Sitzbretter
 - Schneeketten, falls erforderlich

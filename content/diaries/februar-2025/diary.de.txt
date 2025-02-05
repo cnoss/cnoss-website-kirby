@@ -1,0 +1,153 @@
+Title: Februar 2025
+
+----
+
+Text:
+
+2025 ist nun schon einen Monat alt. 2025 klingt echt nach Science Fiction. Und wir mitten drin. 
+
+Nachdem ich im Dezember eine Weile in Essen war und ich ein bisschen Mukke mit Schwane und Ali von den [Steel City Rollers](http://steelcityrollers.de) gemacht habe (das war ein toller Abend … danke!) ist die Sehnsucht nach einer Band doch wieder sehr groß geworden. Und plötzlich stand [Punk Life Balance](http://punklifebalance.com) vor der Tür, wo ich nun das Trömmelchen spiele.
+
+In der Hochschule habe ich das Entwicklungsprojekt für die [Perspektive Web Development](https://cnoss.github.io/entwicklungsprojekt/) neu aufgesetzt. Das hat ganz gut geklappt. Ich bin zum ersten mal wirklich zufrieden mit den Ergebnisse, bzw. Zwischenergebnisse und dem Engagement der Teilnehmer:innen. Yeah! Im kommenden Semester starten wir mit dem [Community Projekt](https://www.medieninformatik.th-koeln.de/mi-5.0/medieninformatik-bachelor/modulbeschreibungen-bpo5/BA_Communityprojekt/) und ich bin noch fleißig am hin- und her überlegen, wie wir das am Besten ausgestalten.
+
+Bei Klickmeister haben wir erstmalig eine richtig schöne Weihnachtspause gemacht. Gerade bereiten wir für [ERCO](https://www.erco.com/de/) den Produkteinführungsprozess vor und gehen Ende Februar mit neuen Produkten auf der Website online. Für die Deutsche Bahn entwickeln wir fleißig an diversen Karten- und Infoplattformen weiter und darüber hinaus gibt es ein paar neue Kooperationen die noch so ein bisschen geheim sind. Wir haben aber noch Kapa frei für dieses Jahr. Wer also Support bei Design, Der, Tracking & DevOps für seine oder ihre Web Anwendung braucht: gerne melden 😎.
+
+----
+
+Cover: 
+
+----
+
+Gallery: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-02-05 19:45:00
+
+----
+
+Og-type-article-modified-time: 2025-02-05 19:45:00
+
+----
+
+Og-type-article-expiration-time: 2025-02-05 19:45:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: 46b5cgKADBBO9ny9
