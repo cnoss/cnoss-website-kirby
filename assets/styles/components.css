@@ -710,6 +710,6 @@ nav#main {
 --------------------------------------------------------------------------- */
 
 .text-desc{
-  max-width: var(--max-width-text);
+  max-width: calc(var(--max-width-text) /2);
   margin-bottom: var(--fluid-space-m);
 }

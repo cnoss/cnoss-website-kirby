@@ -18,7 +18,8 @@ Target: https://mstackma.pages.coco.study/startercode-gestaltungsportfolio-ws202
 
 ----
 
-StaticImage: /assets/static-images/gg-2022-stackmann.jpg
+Staticimage: /assets/static-images/gg-2022-stackmann.jpg
 
 ----
 
+Uuid: Vp7gd0K5uYn5gXgV
