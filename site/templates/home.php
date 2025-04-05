@@ -14,7 +14,7 @@
 
   <p class="text-desc">Im Studiengang <a href="https://coco.study">Code & Context</a> unterrichte ich den Kurs Generative Gestaltung. Hier sind ein paar Ergebnisse aus den letzten Semestern.</p>
   <?= snippet('results', ["context" => "gg", "flag" => "home"]) ?>
-  <a href="/works/generative-gestaltung.html">Mehr schöne Ergebnisse anschauen</a>
+  <!--a href="/works/generative-gestaltung.html">Mehr schöne Ergebnisse anschauen</a-->
 </section>
 
 <section class="section">
