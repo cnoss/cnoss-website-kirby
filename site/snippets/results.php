@@ -20,10 +20,15 @@ if ($flag === "home") {
 <div class="feed-overview">
   <div class="feed-content">
     <?php foreach ($items as $item): ?>
-      <?php 
+      <?php
       // Fetch image source
-      $src = $item->StaticImage() ?? ''; 
-      ?>
+      $src = $item->StaticImage() ?? '';
+
+        if($item->KirbyImage()->isNotEmpty()) {
+            $src = $item->KirbyImage()->toFile()->url();
+        }
+
+        ?>
       <div class="feed-item">
         <figure>
           <img loading="lazy" src="<?= $src ?>" alt="<?= $item->title()->html() ?> von <?= $item->author()->html() ?>">

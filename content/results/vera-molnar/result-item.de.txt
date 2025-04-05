@@ -1,15 +1,29 @@
----
 Title: Vera Molnar
-----
-Author: Mario Siry
-----
-Term: WS23/24
-----
-Target: https://msiry.pages.coco.study/startercode-gestaltungsportfolio-ws-202324-manuel-mario-siry/result-punkt-linie-flaeche/
-----
-Context: gg
-----
-Home: true
-----
-StaticImage: /assets/static-images/gg-2023-siry-bauhaus.jpg
 
+----
+
+Author: Mario Siry
+
+----
+
+Term: WS23/24
+
+----
+
+Target: https://msiry.pages.coco.study/startercode-gestaltungsportfolio-ws-202324-manuel-mario-siry/result-punkt-linie-flaeche/
+
+----
+
+Context: gg
+
+----
+
+Home: true
+
+----
+
+Staticimage: /assets/static-images/gg-2023-siry-bauhaus.jpg
+
+----
+
+Uuid: sJB90EBkmH0BNkhu

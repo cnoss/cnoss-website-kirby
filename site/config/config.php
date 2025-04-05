@@ -5,11 +5,11 @@ return [
 
   'johannschopplich.content-translator' => [
     'DeepL' => [
-        'apiKey' => '3a033427-47ba-4a4f-b393-945f5224e8d0:fx'
+        'apiKey' => 'e4dba6e2-67fb-4fef-a6e3-bf87888baa41'
     ]
   ],
   
-  'languages' => false,
+  'languages' => true,
   'debug' => true
 
 ];

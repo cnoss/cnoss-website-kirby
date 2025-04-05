@@ -1,0 +1,80 @@
+title: Result
+
+tabs:
+  # Main tab for core content
+  main:
+    label: Main
+    icon: edit
+    sections:
+      fields:
+        fields:
+          title:
+            label: Title
+            type: text
+            required: true
+
+          target:
+            label: Target
+            type: url
+            required: true
+
+          author:
+            label: Author
+            type: text
+            required: true
+            width: 2/4
+
+          term:
+            label: Term
+            type: text
+            required: true
+            width: 2/4
+          
+
+          staticImage:
+            label: Image URL (deprecated)
+            type: text
+            required: false
+            width: 2/4
+
+          context:
+            label: Kurs
+            type: select
+            width: 2/4
+            options:
+              gg: Generative Gestaltung
+
+          home:
+            label: auf der Startseite sichtbar
+            type: select
+            width: 2/4
+            options:
+              yes: ja
+              no: nein
+
+          kirbyImage:
+            label: Kirby Image (recommended)
+            type: files
+            uploads:
+              template: image
+
+      images:
+        label: Image Pool
+        type: files
+        required: false
+        multiple: false
+        deletable: true
+        layout: cards            
+
+
+  # Translation tab for multilingual content
+  translation:
+    label: Translation
+    icon: language
+    sections:
+      contentTranslator:
+        type: content-translator
+        title: true
+
+  # SEO tab for meta information
+  seo: seo

@@ -1,13 +1,25 @@
 Title: Fading Contrasts - Organic Veins
-----
-Author: Matthias Marx
-----
-Term: WS21-22
-----
-Context: gg
-----
-Target: [https://mmarx6.pages.coco.study/gestaltungsportfolio-ws-202122-m-marx/](https://mmarx6.pages.coco.study/gestaltungsportfolio-ws-202122-m-marx/)
-----
-StaticImage: /assets/static-images/gg-2022-marx.jpg
 
 ----
+
+Author: Matthias Marx
+
+----
+
+Term: WS21-22
+
+----
+
+Context: gg
+
+----
+
+Target: [https://mmarx6.pages.coco.study/gestaltungsportfolio-ws-202122-m-marx/](https://mmarx6.pages.coco.study/gestaltungsportfolio-ws-202122-m-marx/)
+
+----
+
+Staticimage: /assets/static-images/gg-2022-marx.jpg
+
+----
+
+Uuid: KaVg0zS4O0yS6yW0

@@ -1,8 +1,8 @@
-Title: Werkstudent bei der ERCO Leuchten GmbH im Bereich Digitale Kommunikation
+Title: Mitwirkung im Entwicklungsteam für den Modellstudiengang «Code & Context»
 
 ----
 
-Headline: Werkstudent bei der ERCO Leuchten GmbH im Bereich Digitale Kommunikation
+Headline: Mitwirkung im Entwicklungsteam für den Modellstudiengang [Code & Context](https://coco.study)
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 ----
 
-Type: vita
+Type: university-related-commitment
 
 ----
 
@@ -18,7 +18,7 @@ Since: false
 
 ----
 
-Year: 1999
+Year: 2018
 
 ----
 
@@ -30,7 +30,7 @@ Day:
 
 ----
 
-Yearuntil: 
+Yearuntil: 2020
 
 ----
 
@@ -178,8 +178,8 @@ Robots-nosnippet:
 
 ----
 
-Werkstudent-bei-der-erco-leuchten-https: //www.erco.com/de/) GmbH im Bereich Digitale Kommunikation
+Year-until: 2019
 
 ----
 
-Uuid: 1s8IH3F1sA4dpmQc
+Uuid: D0RbNvYxYUJiEpHv
