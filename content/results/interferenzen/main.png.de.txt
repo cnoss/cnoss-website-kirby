@@ -1,0 +1,5 @@
+Uuid: dFLKvTDASyptxmDB
+
+----
+
+Template: image

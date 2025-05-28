@@ -2,7 +2,7 @@ Title: Tordierte radiale Linien im Raster
 ----
 Author: Matthias Zens
 ----
-Term: WS20-21
+Term: Winter Term 2020/21
 ----
 Context: gg
 ----

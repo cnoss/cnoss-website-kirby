@@ -2,7 +2,7 @@ Title: Fibonacci and Color in Contrast
 ----
 Author: Sarah Li Alexander
 ----
-Term: WS20-21
+Term: Winter Term 2020/21
 ----
 Context: gg
 ----

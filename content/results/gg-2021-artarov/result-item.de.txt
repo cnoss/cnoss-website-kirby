@@ -2,7 +2,7 @@ Title: Spiraling through Rotating Lines
 ----
 Author: Tim Artarov
 ----
-Term: WS20-21
+Term: Winter Term 2020/21
 ----
 Context: gg
 ----

@@ -1,0 +1,161 @@
+Title: GIMME MORE
+
+----
+
+Target: https://jbrueck5.pages.coco.study/startercode-gestaltungsportfolio-ws202425/
+
+----
+
+Author: Johanna Brück
+
+----
+
+Term: Winter Term 2024/25
+
+----
+
+Staticimage: 
+
+----
+
+Context: gg
+
+----
+
+Home: yes
+
+----
+
+Kirbyimage: - file://90nponE14T1lLk7U
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-04-04 19:50:00
+
+----
+
+Og-type-article-modified-time: 2025-04-04 19:50:00
+
+----
+
+Og-type-article-expiration-time: 2025-04-04 19:50:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: vkuvSfi3GY75vzT2
