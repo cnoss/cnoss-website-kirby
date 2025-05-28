@@ -156,6 +156,10 @@
       aspect-ratio: 16/9;
     }
 
+    &.is16by10 {
+      aspect-ratio: 16/10;
+    }
+
     img {
       position: absolute;
       top: 0;
@@ -712,4 +716,12 @@ nav#main {
 .text-desc{
   max-width: calc(var(--max-width-text) /2);
   margin-bottom: var(--fluid-space-m);
+}
+
+/* Video
+--------------------------------------------------------------------------- */
+
+.video.is-large{
+  width: 100%;;
+  aspect-ratio: 16/9;
 }

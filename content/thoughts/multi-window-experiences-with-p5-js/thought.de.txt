@@ -1,0 +1,252 @@
+Title: Multi-Window Experiences with p5.js
+
+----
+
+Text:
+
+<iframe class="video is-large" src="https://www.youtube.com/embed/vQSQs4QW-9w?si=Tt4JlUXGo1Rxq4fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="section herotext">
+    <p>Der Workshop „Multi-Window Experiences with p5.js“ befasst sich mit der Erstellung synchronisierter, interaktiver Visualisierungen über mehrere Browserfenster hinweg unter Verwendung von p5.js. Wir befassen und hier mit Techniken zur Erkennung von Fensterpositionen und zur Echtzeitkommunikation zwischen Fenstern durch Methoden wie window.opener, postMessage, localStorage und SharedWorker um daraus überraschende interaktive Visualiusierungen zu erzeugen.</p>
+    <p>Dazu gibt es Videos, <a href="https://cnoss.github.io/multi-window-experiences/">eine Dokumentation, in der alles noch mal erklärt ist und es alle Codebeispiele gibt, <a href="https://cnoss.github.io/slides/presentations/misc/multi-window-with-p5/">Slides</a> und ein <a href="https://github.com/cnoss/multi-window-experiences">Repo mit einer Demo und Challenges zum Üben</a>. </p>
+    <p>Viel Spaß!</p>
+</div>
+
+
+<div class="gallery">
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/9o-azl6-qB0?si=akviYAT8aosj6da8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>1 von 8: Intro</h3>
+      <p>In diesem Workshop tauchen wir in die Welt der Multi Window Experiences mit p5.js ein. Wir lernen verschiedene Techniken kennen, wie Daten zwischen Fenstern ausgetauscht werden können und wie wir diese Ansätze sinnvoll mit p5.js verbinden können.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/hD_I5ce_c24?si=rkkE7Iclv5iLyryY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>2 von 8: Konzepte zum Austausch von Daten</h3>
+      <p>In diesem Abschnitt werden verschiedene Techniken zur Datenfreigabe zwischen Fenstern vorgestellt und diskutiert. Von der Verwendung von Event-Listenern und SetIntervall, über Window Opener und Local Storage, bis hin zur Nutzung von Shared Workers.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/5Pp0YzTQvdk?si=UWEeUfRAFVrqmiD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>3 von 8: Lösung von Aufgabe 1</h3>
+      <p>Wir beschäftigen uns mit der Lösung der ersten Aufgabe.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/HmBiIYZfH4g?si=Ll-1fiD_3SdN0rig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>4 von 8: Working with p5 </h3>
+      <p>Wir tauchen ein in die Welt des Creative Codings mit p5.js, einer JavaScript-Bibliothek, die auf Processing basiert. Wir lernen, wie wir den State zentral verwalten, Animationen erstellen und mit Farbmodi und Zufallswerten arbeiten können.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/oGM4AFJMMrI?si=4TymBMjp8L2XnMYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>5 von 8: Twist</h3>
+      <p>Hier kommt der Twist: wie stellen wir eine Verbindung zwischen dem Fenster und dem Bildschirm her, um Animationen besser zu steuern und zu positionieren? Dieser Schritt ist ein GameChanger!</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/2GfjX33qPQs?si=beqQNGlAgr6At06D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>6 von 8: Aufgabe 2 und 3</h3>
+      <p>Hier gibt es spannende Aufgaben, die sich mit der Interaktion zwischen zwei Bildschirmen und der Erstellung einer komplexen Visualisierung befassen.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/DGLB1cfiiqA?si=TSo5iTv1pO8fz6m5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>7 von 8: Casting</h3>
+      <p>Hier befassen wir uns mit dem spannenden Thema des 'Casting Overlap', bei dem Objekte von einem Fenster ins nächste übertragen werden. Dabei stellen wir uns die Herausforderung, wie wir ein solches Objekt transferieren können und wie wir dieses Konzept in die Praxis umsetzen könnten.</p>
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <iframe class="is16by10" src="https://www.youtube.com/embed/JzOM_sB-6R8?si=PyYeTw3XCfyF8rkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>
+      <h3>8 von 8: Final Thoughts</h3>
+      <p>Wir diskutieren die Vielfalt der Technologien zum Datenaustausch und die Herausforderung, sinnvolle Interaktionen zu konzipieren.</p>
+    </figcaption>
+  </figure>
+</div>
+
+### Material
+- [Repo mit Erklärungen, Demos und Challenges zum üben](https://github.com/cnoss/multi-window-experiences)
+- [Slides zu den Inhalten](https://cnoss.github.io/slides/presentations/misc/multi-window-with-p5/)
+
+### Codebeispiele
+  - [Using window opener](https://cnoss.github.io/multi-window-experiences/00-core-concepts/window-opener-demo/parent.html)
+  - [Share Data via Broadcast Channel API](https://cnoss.github.io/multi-window-experiences/00-core-concepts/post-message-demo/index.html)
+  - [Store shared data via LocalStorage](https://cnoss.github.io/multi-window-experiences/00-core-concepts/local-storage-demo/index.html)
+  - [Use of a higher-level Shared Worker](https://cnoss.github.io/multi-window-experiences/00-core-concepts/shared-worker-demo/index.html)  
+  - [Shared Worker with Central State Management](https://cnoss.github.io/multi-window-experiences/00-core-concepts/shared-worker-with-central-state-management-demo/index.html)
+
+### Weitere Infos & Anregungen
+  - [Working with p5.js](https://cnoss.github.io/multi-window-experiences/01-working-with-p5/index.html)
+  - [Window: screenX property MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/screenX)
+  - [Window: screenY property MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/screenY)
+  - [Window: opener property MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/opener)
+  - [Broadcast Channel API MDN](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
+  - [window.postMessage MDN](https://developer.mozilla.org/en-us/docs/Web/API/Window/postMessage)
+  - [Local Storage MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+  - [Shared Worker MDN](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker)  
+  - [P5.js](https://p5.js.org)
+  - [P5.js Reference](https://p5.js.org/reference/)
+  - [Web Editor](https://editor.p5.js.org/)  
+
+----
+
+Description: How do I share real-time data between two browser windows and use it for a visualisation with p5.js?
+
+----
+
+Pubdate: 2025-05-28
+
+----
+
+Layout: text
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Date: 28-07-2024
+
+----
+
+Uuid: x5WDx1SdWxS0QiHM
