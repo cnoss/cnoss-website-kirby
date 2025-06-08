@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 
-<?php 
+<?php
 $language = $kirby->language();
 $mainCssClass = isset($mainCssClass) ? $mainCssClass : '';
-$bodyCssClass = isset($bodyCssClass) ? "class={$bodyCssClass}" :'';
+$bodyCssClass = isset($bodyCssClass) ? "class={$bodyCssClass}" : '';
 $headerVisibility = isset($header) ? $header : 'show';
 $customProperties = '';
 
 if (isset($colorChanges)) {
-  $mainCssClass .= ' color-changes';
-  $customProperties = '';
-  foreach ($colorChanges as $key => $value) {
-    $customProperties .= "--{$key}: {$value};";
-  }
-  $customProperties = ":root{{$customProperties}}";
+    $mainCssClass .= ' color-changes';
+    $customProperties = '';
+    foreach ($colorChanges as $key => $value) {
+        $customProperties .= "--{$key}: {$value};";
+    }
+    $customProperties = ":root{{$customProperties}}";
 }
 ?>
 
@@ -37,6 +37,8 @@ if (isset($colorChanges)) {
   <style>
     <?= $customProperties ?>
   </style>
+
+  <!--script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script-->
 
 </head>
 <body <?= $bodyCssClass ?>>

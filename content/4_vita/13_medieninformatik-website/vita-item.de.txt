@@ -1,0 +1,187 @@
+Title: Medieninformatik Website
+
+----
+
+Headline: Website der Medieninformatik – Digitale Visitenkarte und technische Spielwiese
+
+----
+
+Text:
+
+Die Medieninformatik an der TH Köln betreibt neben ihrem offiziellen Auftritt auf der zentralen Hochschulwebsite seit vielen Jahren eine eigenständige Website, die nicht nur der Information und Kommunikation dient, sondern zugleich als technische Spielwiese fungiert. Diese Website wird kontinuierlich weiterentwickelt und bildet zentrale Inhalte rund um das Studienangebot, Projekte, Veranstaltungen und Modulhandbücher ab.
+
+Bereits seit 2007 wird die Seite in Eigenregie betreut und hat seitdem mehrere Iterationen durchlaufen. Die aktuelle Version basiert auf einem Jamstack-Ansatz. Zum Einsatz kommt der Static Site Generator *Hugo*, der eine hohe Performance, einfache Wartung und flexible Erweiterbarkeit ermöglicht. Inhaltlich greift die Seite auf verschiedene offene Schnittstellen und externe Datenquellen zurück – etwa für Veranstaltungsankündigungen.
+
+Ein zentrales Feature ist die Einbindung der Modulhandbücher, die direkt aus dem Git-basierten Reakkreditierungsworkflow generiert werden. Dabei werden verschiedene Prüfungsordnungen und Versionen berücksichtigt, sodass Studierende und Lehrende jederzeit Zugriff auf aktuelle und vergangene Modulinformationen haben.
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Year: 2018
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Website](https://www.medieninformatik.th-koeln.de)\n[Zum GitHub Repo](https://github.com/th-koeln/mi-website-2018)","class":""},"id":"9bcd81e9-897a-4a9f-a039-39394c70909f","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: E46inQzCkLzmJSEY

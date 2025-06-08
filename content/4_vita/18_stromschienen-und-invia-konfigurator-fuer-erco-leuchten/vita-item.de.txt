@@ -1,0 +1,193 @@
+Title: Stromschienen- und Invia-Konfigurator für ERCO Leuchten
+
+----
+
+Headline: Stromschienen- und Invia-Konfigurator für ERCO Leuchten
+
+----
+
+Text:
+
+Für die ERCO GmbH, einen führenden Anbieter hochwertiger Architekturbeleuchtung, wurde ein digitales Konfigurator-System entwickelt, das die Planung linearer Lichtsysteme deutlich vereinfacht. Im Zentrum standen zwei Produkttypen: die Stromschieneninfrastruktur sowie die Invia-Lichtsysteme – modulare, lineare Lichtlösungen mit vielfältigen Einsatzmöglichkeiten.
+
+Die Herausforderung: Stromschienensysteme und Invia-Konfigurationen erfordern eine Vielzahl technischer Details und Varianten (z. B. L-, U-, oder quadratische Grundformen in unterschiedlichen Längen). Bislang wurde die Konfiguration dieser Systeme größtenteils durch interne Planungsteams durchgeführt – mit hohem Aufwand und begrenzter Skalierbarkeit.
+
+Das entwickelte Tool zielt darauf ab, diesen Prozess zu vereinfachen und direkt in die Hände der Kund*innen oder Planer*innen zu legen. Über eine intuitive Nutzeroberfläche können auch komplexere Konfigurationen schrittweise selbst erstellt werden – unterstützt durch klare Visualisierungen und Regelwerke, die typische Fehlerquellen reduzieren.
+
+Ich habe das Projekt in der Projektierungsphase begleitet, die Datenstrukturen validiert, bei Design- und Interaktionskonzepten mitgewirkt und die erste Version bis zur produktionsreifen Vorserie mit aufgebaut. Beide Konfiguratoren – für Invia und Stromschiene – sind inzwischen als Serienprodukte im Einsatz und werden aktiv genutzt.
+
+----
+
+Year: 2022
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zum Konfigurator](https://www.erco.com/de/produkte/invia-48v-konfigurator-7678)","class":""},"id":"7941eaeb-a143-4308-95e4-f57ad6806448","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"470a7f64-72dd-46f8-9c53-572383741e6c","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: lr0sbDrabbfniifG

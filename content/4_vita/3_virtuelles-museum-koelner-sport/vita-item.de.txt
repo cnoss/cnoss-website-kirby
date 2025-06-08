@@ -1,0 +1,187 @@
+Title: Virtuelles Museum Kölner Sport
+
+----
+
+Headline: Virtuelles Museum // Kölner Sport
+
+----
+
+Text:
+
+Das Projekt Virtuelles Museum // Kölner Sport wurde von April 2008 bis 2012 als interdisziplinäre Zusammenarbeit zwischen der Deutschen Sporthochschule Köln und der Technischen Hochschule Köln (ehemals Fachhochschule Köln) realisiert. Beteiligt waren das Institut für Sportgeschichte der Sporthochschule sowie auf Seiten der TH Köln das Institut für Informatik, das Institut für Medienforschung und Medienpädagogik sowie die Fakultät für Architektur mit dem Forschungsschwerpunkt „Corporate Architecture“. Die Umsetzung erfolgte in Form eines multimedialen, interaktiven Museums im virtuellen Raum, das den Kölner Stadtraum – insbesondere den Müngersdorfer Sportpark – als Ausgangspunkt für eine digitale Erkundung nutzbar machte. Neben der digitalen Plattform wurden auch reale Schnittstellen wie Hörstationen im Stadtraum geschaffen, um virtuelle und physische Inhalte miteinander zu verknüpfen.
+
+Ich war Teil des Projektteams und verantwortete die technische Plattform: von der Softwarearchitektur über die Datenhaltung bis hin zur Gestaltung der Benutzeroberfläche. Entstanden ist eine strukturierte, dreidimensional gedachte Museumsumgebung, die Besucher*innen über Zeit, Ort und Sportarten durch die Geschichte des Kölner Sports führte.
+
+Ein besonderer Fokus lag auf der Verbindung zwischen virtueller und realer Welt: Der Müngersdorfer Sportpark diente als Prototyp, ergänzt durch Hörstationen vor Ort und interaktive Formate wie das Projekt „Cybersneaker“. Zahlreiche studentische Arbeiten begleiteten das Projekt und trugen wesentlich zu seiner Umsetzung und Weiterentwicklung bei.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2008
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2012
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: 
+
+----
+
+Downloads: - file://N5WoSr6jNRfQ4ib6
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:00:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:00:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: trt8mwux6p3C4hfT

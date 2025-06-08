@@ -1,0 +1,191 @@
+Title: HONK & Different
+
+----
+
+Headline: HONK & Different: Ein interdisziplinäres Musical- und Medienprojekt
+
+----
+
+Text:
+
+Im Jahr 2012 realisierten das Musical-Projekt Oberberg e.V. und der Studiengang Medieninformatik der Fachhochschule Köln (Campus Gummersbach) gemeinsam das Musical HONK, eine Adaption von Hans Christian Andersens Märchen Das hässliche Entlein. Thematisch stand das „Anderssein“ im Mittelpunkt – ein Aspekt, der besonders junge Menschen in ihrer Identitätsentwicklung anspricht.
+
+Begleitet wurde die Inszenierung von mehreren Wochenendworkshops mit Jugendlichen und jungen Erwachsenen, deren persönliche Erfahrungen mit dem Thema kreativ in die Aufführung einflossen. Das Musical wurde im März und April 2012 insgesamt viermal im Theater der Stadt Gummersbach aufgeführt und von etwa 1.400 Personen besucht. Im Anschluss fanden moderierte Gesprächsrunden mit Schulklassen statt.
+
+Parallel zur Inszenierung entstand in Kooperation mit der TH Köln der Filmwettbewerb Different. Teilnehmende waren eingeladen, sich ohne gesprochene Sprache und auf maximal drei Minuten Länge filmisch mit dem Thema „Anderssein“ auseinanderzusetzen. Insgesamt wurden 14 Beiträge eingereicht – aus NRW ebenso wie aus anderen Bundesländern. Prämiert wurden sie durch Jury- und Publikumspreise. Technische Umsetzung, Website-Gestaltung und Kommunikation des Wettbewerbs wurden von Studierenden realisiert.
+
+Das Projekt wurde durch das Land NRW, die Sparkasse Gummersbach-Bergneustadt, das Bruno-Goller-Haus, den Verein zur Förderung der Kultur in Gummersbach, die Karstadt AG, das Katholische Bildungswerk Oberberg sowie die Fachhochschule Köln unterstützt.
+
+Trotz Herausforderungen bei der Finanzierung zeigte das Projekt eindrucksvoll, wie kulturelle Bildung, Medienarbeit und künstlerische Ausdrucksformen in einem integrativen Konzept zusammengeführt werden können.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2012
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2013
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: 
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:15:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:15:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:15:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: m0wVzSCF4M341uiV

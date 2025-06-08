@@ -1,0 +1,193 @@
+Title: Basecamp Iceland
+
+----
+
+Headline: Basecamp Iceland – Marketing-Website für Premium-Reiseanbieter
+
+----
+
+Text:
+
+Für den isländischen Reiseveranstalter Basecamp Iceland habe ich eine kompakte Marketing-Website konzipiert und umgesetzt. Ziel war es, das Leistungsspektrum des Unternehmens sichtbar zu machen und gleichzeitig eine inspirierende User Experience zu schaffen – sowohl für Endkund\*innen als auch für Reseller, die im stark partnergetriebenen Vertrieb eine zentrale Rolle spielen.
+
+Der inhaltliche Fokus der Seite liegt auf der Emotionalisierung des Angebots: Island als Naturerlebnis, Nordlichter, exklusive Tourenformate – visuell ansprechend, zugänglich und zielgruppenorientiert aufbereitet. Dabei sollte die Website nicht nur als Informationsplattform dienen, sondern auch den Charakter einer digitalen Visitenkarte haben: leicht, direkt und einprägsam.
+
+Technisch besonders interessant war der Einsatz moderner, standardnaher Webtechnologien für Animationen. Erstmals konnte ich hier im professionellen Kontext scrollbasierte Animationen ohne JavaScript umsetzen – allein auf Basis von HTML und CSS. Das Projekt diente damit auch als Showcase für performante, wartbare Animationstechniken, die ohne Framework-Overhead auskommen und dennoch flüssige, aufmerksamkeitsstarke Interaktionen ermöglichen.
+
+Die Seite ist inzwischen live und dient als Einstiegspunkt in weitere digitale Angebote von Basecamp Iceland – unter anderem zur *Aurora Forecast Map*, die aktuell parallel entwickelt wird.
+
+----
+
+Year: 2024
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur Website](https://www.basecampiceland.is/)","class":""},"id":"d6e9dc1f-9ad3-40ed-b00a-a61a6c95bd0c","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: n7nUbWJvLyP0qJAZ

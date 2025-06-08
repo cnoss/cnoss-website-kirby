@@ -1,0 +1,187 @@
+Title: Cranach Map
+
+----
+
+Headline: Cranach Map – Geografischer Zugang zum Werk von Lucas Cranach
+
+----
+
+Text:
+
+Die Cranach Map ist eine interaktive Anwendung, die einen kartografischen Zugang zum digitalen Werkverzeichnis von Lucas Cranach dem Älteren und seiner Werkstatt bietet. Ziel der Anwendung ist es, Nutzer*innen über eine geografische Perspektive neue Zugänge zu den digitalisierten Beständen des Cranach Digital Archive zu ermöglichen.
+
+Die Anwendung ging aus einer studentischen Abschlussarbeit hervor und wurde in einer ersten Prototypenphase entwickelt. In einem weiteren Schritt wurde auf Basis diesen Prototyps die erste Version der Karte konzipiert und entwickelt. Die Cranach Map bildet heute die Standorte musealer Sammlungen und Einzelwerke ab, die dem Cranach-Archiv zugeordnet sind. Nutzer*innen können sich über die Karte gezielt einzelne Objekte anzeigen lassen und erhalten direkten Zugriff auf die zugehörigen Archivdaten. Die Anwendung schafft damit eine visuelle, geobasierte Navigation durch das umfangreiche digitale Archiv.
+
+Künftig ist geplant, die Anwendung um weitere Funktionalitäten zu erweitern – etwa Filtermöglichkeiten, thematische Routen oder zeitgeschichtliche Ebenen –, um das Archiv auch über raumbezogene Zusammenhänge noch besser erschließbar zu machen.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2025
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Cranach Map](https://lucascranach.org/de/map/)\n[Zum GitHub Repo der Map](https://github.com/lucascranach/cranach-map)","class":""},"id":"77369f8a-1699-4d4e-9ef9-563aa02076e5","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Calvin Hinzer](https://github.com/calvinhnzr), Julia Voell, [Volker Schaefer](https://github.com/vschaefer), [Christian Noss](https://github.com/cnoss)","class":""},"id":"26d18244-17b3-42aa-bf77-b1e7e060172a","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: UyY7yAcdbylZgibM

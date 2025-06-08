@@ -81,7 +81,16 @@ tabs:
             create: 
               - thought
             template:
-              - thought           
+              - thought        
+
+          deep-dive:
+            label: Deep Dive
+            type: pages
+            parent: site.find("deep-dive")
+            create: 
+              - layout-blocks
+            template:
+              - layout-blocks     
            
   contact:
     icon: pin

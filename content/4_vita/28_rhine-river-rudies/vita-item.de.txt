@@ -1,0 +1,185 @@
+Title: The Rhine River Rudies
+
+----
+
+Headline: Rhine River Rudies
+
+----
+
+Text: Ska aus Köln.
+
+----
+
+Year: 2013
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2016
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: music
+
+----
+
+Since: false
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur Facebook Seite](https://www.facebook.com/RhineRiverRudies/?locale=de_DE)\n- [Zur Soundcloud](https://soundcloud.com/user-943577057)","class":""},"id":"2b6a6da6-c4d9-4fd6-a74a-da1b07a25c6b","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-08 07:45:00
+
+----
+
+Og-type-article-modified-time: 2025-06-08 07:45:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-08 07:45:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: KybPhqcNcu66DC64

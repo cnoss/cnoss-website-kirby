@@ -1,0 +1,191 @@
+Title: Cranach Importer
+
+----
+
+Headline: Cranach-Importer – Schnittstelle zwischen Museumssystem und Webplattform
+
+----
+
+Text:
+
+Im Rahmen des Cranach-Digitalprojekts habe ich die Projektierung und technische Konzeption des Cranach-Importers begleitet – einer zentralen Komponente innerhalb der digitalen Infrastruktur. Ziel war es, strukturierte Daten aus dem proprietären Museumssystem TMS (The Museum System) in ein nutzbares Format für die Webplattform und weitere digitale Komponenten zu überführen.
+
+Der XML-Export aus TMS, basierend auf einem komplexen Crystal-Reports-Format, erwies sich als unübersichtlich und schwer weiterverarbeitbar. Der Cranach-Importer konvertiert diese Daten in ein sauberes, standardisiertes JSON-Format, das sowohl maschinenlesbar als auch für redaktionelle Nutzung zugänglich ist. Die Komponente bildet damit die Grundlage für zahlreiche nachgelagerte Prozesse – von der Frontend-Ausspielung über Datenanreicherung bis hin zu Visualisierungen.
+
+Meine Rolle umfasste die Definition der Schnittstellenlogik, das Zusammenspiel mit angrenzenden Komponenten sowie die Abstimmung mit Entwicklung und Datenpflege. In enger Zusammenarbeit mit dem technischen Lead entstand eine robuste Import-Pipeline, die das System heute zuverlässig mit strukturierten Daten versorgt und sukzessive weiter entwickelt wird.
+
+----
+
+Year: 2018
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: research
+
+----
+
+Since: true
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zum Repo](https://github.com/lucascranach/importer)","class":""},"id":"3f43f2fc-4c49-4b78-a806-8d6f42d087dd","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Jorge H. F. Pereira](https://github.com/jhfpereira), [Christian Noss](https://github.com/cnoss), [Yannic Brügger](https://github.com/yannic-bruegger), [Markus Alterauge](https://github.com/markusalterauge), [Daniel Görres](https://github.com/dangoerr)","class":""},"id":"9a47f7b0-4336-473e-a808-e11ec4f04bf6","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-08 06:45:00
+
+----
+
+Og-type-article-modified-time: 2025-06-08 06:45:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-08 06:45:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: IAOdI9yJ6ppYvyGH

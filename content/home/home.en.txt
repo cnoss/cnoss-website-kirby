@@ -1,0 +1,29 @@
+Title: Home
+
+----
+
+Text: Kleiner Text
+
+----
+
+Cover: 
+
+----
+
+Gallery: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Keywords: 
+
+----
+
+Robots: true

@@ -1,0 +1,191 @@
+Title: Cranach VR
+
+----
+
+Headline: Cranach VR – Cranach Meisterwerke in virtueller Realität erleben
+
+----
+
+Text:
+
+Cranach VR ist eine experimentelle Anwendung innerhalb des Cranach Digital Archive (CDA), die es ermöglicht, zentrale Werke aus dem Bestand in einem virtuellen Raum zu erleben. Ziel der Anwendung ist es, die hohe Immersion virtueller Realität mit der breiten Zugänglichkeit webbasierter Technologien zu verbinden.
+
+Die erste Version entstand 2022 als Prototyp auf Basis von A-Frame. Dabei wurden rund 100 Meisterwerke der Cranach-Werkstatt entlang einer Zeitleiste in einem VR-Raum platziert. Die Werke wurden mit Metadaten wie Titel, Entstehungsjahr und Beschreibungen versehen und in realitätsnaher Größe dargestellt. Auch Rückseitenansichten mit Annotationen wurden integriert, sodass eine räumliche und inhaltliche Tiefenerfahrung möglich ist.
+
+Die immersive Wirkung ist bemerkenswert: Durch realitätsnahe Größenverhältnisse, leuchtstarke Bildwiedergabe und die Möglichkeit, sich frei im Raum zu bewegen, eröffnet Cranach VR eine neue, sinnlich erfahrbare Perspektive auf das Werk Cranachs.
+
+Im Jahr 2025 wurde die Anwendung mit neuem technischen Unterbau vollständig überarbeitet. Statt A-Frame kommt nun Three.js zum Einsatz. Zusätzlich wurden Funktionen zur Navigation und Interaktion verbessert, unter anderem durch vereinfachte Steuerung und die Integration von Audioelementen zur inhaltlichen Vertiefung.
+
+Cranach VR demonstriert das Potenzial webbasierter VR-Technologien für die Kunst- und Kulturvermittlung – und dient als Pilotanwendung für immersive Zugänge im Kontext digitaler Archive.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2025
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Anwendung](https://lucascranach.org/xr/)\n[Zum GitHub Repo](https://github.com/lucascranach/cranach-xr)\n[Cranach VR auf der Nacht der Technik](https://www.th-koeln.de/hochschule/nacht-der-technik-oberberg-2023_103898.php)","class":""},"id":"dfe95d3b-5a52-4068-8a60-1e9f371fa395","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Calvin Hinzer](https://github.com/calvinhnzr), [Volker Schaefer](https://github.com/vschaefer), [Christian Noss](https://github.com/cnoss)","class":""},"id":"972e3c8f-a3b1-4fdb-83c2-060630348bc2","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: 3kfxjUSHIxHGJWJb

@@ -1,0 +1,193 @@
+Title: Bildmeister – Bilddatenbank-Tool für das DJH Rheinland
+
+----
+
+Headline: Bildmeister – Bilddatenbank-Tool für das DJH Rheinland
+
+----
+
+Text:
+
+Seit über 15 Jahren unterstützt Bildmeister die Bildredaktion des Deutschen Jugendherbergswerks Landesverband Rheinland (DJH Rheinland) bei der Verwaltung und Abstimmung visueller Inhalte für die Öffentlichkeitsarbeit. Die Anwendung wurde als maßgeschneiderte Lösung entwickelt, um den redaktionellen Alltag effizienter zu gestalten – etwa bei der Auswahl und Aufbereitung von Bildmaterial für Kataloge, Flyer, Social-Media-Kampagnen oder digitale Publikationen.
+
+Mit Funktionen wie Drag-and-Drop für die Bildorganisation, einer klar geregelten Rechte- und Rollenverwaltung sowie der Möglichkeit, Bildausschnitte gezielt für Publikationsformate abzustimmen, bietet Bildmeister ein praxisnahes Werkzeug, das sich eng an den Bedürfnissen der Redaktion orientiert. Eine performante Suchfunktion ermöglicht es auch bei großen Bildbeständen, schnell und treffsicher geeignete Motive zu finden.
+
+Ich habe das Projekt von Anfang an konzeptionell und gestalterisch begleitet – von der Entwicklung des Grundkonzepts über das Interface-Design bis hin zur kontinuierlichen Weiterentwicklung im Austausch mit dem DJH Rheinland. Gemeinsam mit dem Team habe ich die Anforderungen erarbeitet, UX-Strukturen entwickelt, die Nutzerführung mitgestaltet und über die Jahre hinweg an verschiedenen funktionalen Erweiterungen mitgewirkt.
+
+Im Laufe der Zeit wurde Bildmeister mehrfach aktualisiert – sowohl technisch als auch funktional. Neue Features wie eine erweiterte Filterlogik, fein justierbare Nutzerrechte oder die verbesserte Handhabung von Freigaben machen die Plattform bis heute zu einem zentralen Werkzeug in der Bildkommunikation des Verbands.
+
+----
+
+Year: 2010
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: true
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"fd0f0f50-6957-47f0-8fa7-d9fe913343bb","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:15:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:15:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:15:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: R6mYvx9KJ8upOnho

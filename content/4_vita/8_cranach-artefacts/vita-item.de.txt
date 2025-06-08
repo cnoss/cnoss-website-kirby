@@ -1,0 +1,189 @@
+Title: Cranach Artefacts
+
+----
+
+Headline: Cranach Artefacts – Detailansichten im Cranach Digital Archive
+
+----
+
+Text:
+
+Cranach Artefacts ist eine Komponente des Cranach Digital Archive (CDA), die strukturierte Detailinformationen zu einzelnen Objekten bereitstellt – darunter Gemälde, Grafiken, Zeichnungen und Archivalien. Ziel ist es, diese Objekte datenbasiert, performant und benutzerfreundlich zugänglich zu machen.
+
+Die Anwendung basiert auf dem Jamstack-Paradigma und nutzt den Static Site Generator Eleventy. Da die zugrunde liegenden Daten in der Regel nur quartalsweise oder seltener aktualisiert werden, eignet sich die statische Generierung ideal für diese Komponente. Die Seiten werden bei Bedarf im Build-Prozess erzeugt und ermöglichen damit eine schnelle Auslieferung bei minimalem Serveraufwand.
+
+Die Daten stammen aus dem zentralen Importer, der XML-Daten aus dem zugrundeliegenden TMS-System in JSON konvertiert und sowohl über eine API als auch direkt für Cranach Artefacts bereitstellt. Die technische Umsetzung ist bewusst schlank gehalten: mit einfachem CSS und Vanilla JavaScript werden die jeweils rubrikenspezifischen Inhalte (z. B. Gemälde vs. Grafik) nutzerspezifisch dargestellt.
+
+Cranach Artefacts bildet damit das Rückgrat für die objektbezogene Informationsdarstellung im CDA und dient als Grundlage für vertiefende Analysen, Recherchen und wissenschaftliche Dokumentation.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2021
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Beispielseite «Schottenkreuzigung»](https://lucascranach.org/de/AT_KHM_GG6905)\n[Zum GitHub Repo](https://github.com/lucascranach/cranach-artefacts)","class":""},"id":"b0cc452c-cc5d-4d30-b1b9-a7cfdd27b9f6","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Christian Noss](https://github.com/cnoss), [Yannic Brügger](https://github.com/yannic-bruegger), [Jorge H. F. Pereira](https://github.com/jhfpereira), [Markus Alterauge](https://github.com/markusalterauge)","class":""},"id":"b2ec0b92-69cb-4521-bb44-5ec1be28881d","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: SgoWMVhUqSTr8QfA

@@ -1,5 +1,7 @@
 :root {
   /* Sizes using Lucas Numbers */
+
+
   --faktor: 1.1;
   --xxs: calc(4px * var(--faktor));
   --xs: calc(7px * var(--faktor));
@@ -53,7 +55,7 @@
   --color-headline-light: var(--lighter);
   --color-aside: var(--lichtgrau);
   --color-border: var(--lichtgrau);
-  --color-seperator: var(--light);
+  --color-seperator: var(--green);
   --color-background: var(--dark);
   --color-title: var(--light);
   --color-lighten: var(--lighten);
@@ -90,9 +92,11 @@
   --bw: 2px;
   --text-shadow: 0 0 20px rgb(0 0 0 / 90%);
   --max-width-content: 50rem;
+  --max-width-blocks: 80rem;
   --max-width-text: var(--vp-large);
   --aside-width: 20rem;
   --border-width: 2px;
   --border-width-s: 1px;
   --border-radius: 4px;
+  --column-width-s: 12ch;
 }

@@ -1,18 +1,18 @@
-.text{
+.text {
   max-width: 120ch;
   padding-right: var(--xxl);
 
-  .herotext{
+  .herotext {
     margin-top: var(--xl);
     margin-bottom: var(--xxl);
     color: var(--color-hero);
   }
 
-  ul{
-    li{
+  ul {
+    li {
       margin-left: 2ch;
 
-      &::before{
+      &::before {
         display: inline-block;
         width: 1.5ch;
         padding-right: 0.5ch;
@@ -25,23 +25,23 @@
     padding-bottom: var(--l);
   }
 
-  ol{
-    li{
+  ol {
+    li {
       margin-bottom: var(--s);
     }
 
     padding-bottom: var(--l);
   }
 
-  .block{
+  .block {
     margin-bottom: var(--l);
   }
 
-  p{
+  p {
     margin-bottom: var(--m);
   }
 
-  hr{
+  hr {
     border: none;
     border-top: dotted var(--green) 3px;
     margin-top: var(--xl);
@@ -49,25 +49,25 @@
     background-color: transparent;
   }
 
-  h2{
+  h2 {
     font-size: var(--xl);
   }
 
-  h3{
+  h3 {
     margin-bottom: var(--l);
     font-size: var(--l);
     font-weight: var(--fw-normal);
   }
 
-  h4{
+  h4 {
     padding-top: var(--s);
   }
 
-  .date{
+  .date {
     font-size: var(--m);
   }
 
-  a{
+  a {
     font-weight: var(--fw-medium);
   }
 
@@ -76,16 +76,16 @@
 /* Playground
 ###################################################################################### */
 
-.layout-playground{
-  figure{
+.layout-playground {
+  figure {
     padding-right: var(--xl);
 
-    img + img{
+    img+img {
       padding-top: var(--fluid-space-m);
     }
   }
 
-  .darken{
+  .darken {
     mix-blend-mode: darken;
   }
 }
@@ -93,11 +93,13 @@
 /* Vita Filter
 ###################################################################################### */
 
-.filter{
+.filter {
   display: inline-flex;
   gap: var(--xs);
 
-  .filter-button, .filter-button:active, .filter-button:focus{
+  .filter-button,
+  .filter-button:active,
+  .filter-button:focus {
     padding: var(--xxs) var(--xs);
     border: solid 2px var(--lighten);
     border-radius: var(--border-radius);
@@ -105,58 +107,138 @@
     font-size: var(--m);
     transition: all var(--tr-fast);
 
-    &:hover{
+    &:hover {
       border-color: var(--color-decoration);
       cursor: pointer;
     }
 
     /* stylelint-disable-next-line no-descending-specificity */
-    &:active, &.is-active{
+    &:active,
+    &.is-active {
       background-color: var(--color-decoration);
     }
   }
-  
+
 }
 
-.filter-items{
-  & > * {
+.filter-items {
+  &>* {
     overflow: hidden;
     max-height: 20rem;
     margin-bottom: var(--xs);
     transition: max-height var(--tr-medium) ease-in-out, margin var(--tr-medium) ease-in-out;
   }
 
-  .is-hidden{
+  .is-hidden {
     max-height: 0;
     margin-bottom: 0;
   }
 }
 
 
-.vita-section{
+.vita-section {
   padding: var(--s);
   margin-bottom: var(--fluid-space-m);
 }
 
-.vita{
-  .vita-section-title{
-    margin-bottom: var(--l);
+.vita {
+  @media (width >=40rem) {
+    .vita-item-list {
+      grid-template-columns: var(--column-width-s) 1fr;
+    }
+
+    .vita-item-list-large{
+      .vita-item-data{
+        margin-bottom: var(--fluid-space-l);
+      }
+
+      .title{
+        margin-bottom: var(--l);
+        color: var(--lightest);
+        text-wrap: balance;
+      }
+
+      a{
+        font-weight: var(--fw-normal);
+      }
+      
+    }
+  }
+
+  .vita-section-title {
+    margin-bottom: var(--fluid-space-l);
     font-size: var(--l);
   }
 
-  .vita-item-title{
-    text-align: right;
+  .vita-item-title {
+    display: inline-block;
+    width: 100%;
+    margin-top: var(--l);
+    margin-bottom: var(--s);
+
+    @media (width >=40rem) {
+      margin-top: 0;
+      margin-bottom: 0;
+      text-align: right;
+    }
   }
 
-  .vita-item-data{
+  .vita-item-data {
     font-weight: var(--fw-normal);
+
+    .title{
+      color:var(--lighter)
+    }
+
+    a{
+      font-weight: var(--fw-normal);
+    }
   }
 
-  .vita-text{
+  .vita-text {
     margin-bottom: var(--m);
 
     /* overflow: hidden;
     max-height: 0; */
     font-weight: var(--fw-light);
+  }
+
+  .additional-content{
+    & > * {
+      margin-bottom: var(--m);
+    }
+  }
+}
+
+/* Layout Blocks
+###################################################################################### */
+
+.layout-blocks{
+  max-width: var(--max-width-blocks);
+
+  .text ul{
+    padding-bottom: 0;
+  }
+
+  h2{
+    margin-bottom: var(--fluid-space-l);
+    color: var(--lightest);
+    font-size: var(--xl);
+  }
+
+  h3, h4{
+    color: var(--lightest);
+    font-size: var(--m);
+    font-weight: var(--fw-normal);
+    line-height: var(--lh-normal);
+
+  }
+
+  a{
+    font-weight: var(--fw-normal );
+  }
+
+  .herotext{
+    margin-bottom: var(--fluid-space-m);
   }
 }

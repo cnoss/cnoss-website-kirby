@@ -1,0 +1,149 @@
+Title: Toolset Reakkreditierung
+
+----
+
+Subtitle: Git-basiertes Toolset für die Reakkreditierung – Ein nachhaltiger Workflow für Studiengangsdokumentation
+
+----
+
+Pubdate: 2025-06-07
+
+----
+
+Description: Die Reakkreditierung von Studiengängen ist komplex – oft dominiert von Word-Dokumenten, manueller Pflege und fehlender Aktualisierbarkeit. Aus dieser Erfahrung heraus habe ich 2017 einen Git-basierten Workflow entwickelt, der auf offenen, strukturierten Formaten wie Markdown basiert. Das Ergebnis: medienneutrale, versionierte Modulbeschreibungen, die kollaborativ gepflegt, flexibel ausgespielt und langfristig wiederverwendet werden können. Inzwischen ist aus dem Konzept ein zentrales System für die ganze Fakultät entstanden.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"headline":"","text":"Die Reakkreditierung von Studiengängen ist ein komplexer, dokumentenintensiver Prozess. Für jede Akkreditierungsrunde müssen Modulhandbücher, Prüfungsordnungen, Qualifikationsziele und weitere Unterlagen in hoher Qualität erstellt, abgestimmt und gepflegt werden – oft unter großem Zeitdruck und mit vielen beteiligten Personen. In der Praxis dominieren dabei häufig proprietäre Formate wie Word, was zu fehleranfälligen Workflows, redundanter Arbeit und einer geringen Nachvollziehbarkeit führt.","class":"herotext"},"id":"5cb7b255-9a4d-4351-9d56-d421b91e6e03","isHidden":false,"type":"text"}],"id":"3af54a6c-8b6e-4a95-81fc-418dc62a5f41","width":"1/1"}],"id":"d95b5e5a-fa07-4c7c-a23a-7ecfdad83234"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Ausgangspunkt: Reakkreditierung 2011 – viel Aufwand, wenig Nachhaltigkeit"},"id":"47805e73-bd00-442a-8ad4-2bb4e56a9452","isHidden":false,"type":"heading"}],"id":"9847cbe1-eac0-4fd1-afbd-4000b90f874c","width":"1/3"},{"blocks":[{"content":{"headline":"","text":"2011 habe ich erstmals an einer Reakkreditierung mitgewirkt und war überrascht, wie fehleranfällig und ressourcenintensiv der gesamte Prozess war. Die Erstellung der Modulhandbücher erfolgte in Word, die Dateien wurden manuell gepflegt, formatiert und anschließend zu PDF-Dokumenten zusammengefügt. Änderungen im Laufe des Betriebs – etwa durch neue Lehrende oder aktualisierte Literatur – wurden kaum oder gar nicht eingepflegt. Die Dokumente waren inhaltlich oft schon kurz nach der Akkreditierung veraltet, eine nachhaltige Nutzung war praktisch unmöglich.","class":""},"id":"037b77a3-d2b3-4d2a-891d-97817ff3f7a5","isHidden":false,"type":"text"}],"id":"8cf716ae-6228-4b42-a675-75c2ec6d3a2f","width":"2/3"}],"id":"000a2977-fcaf-410f-a718-5df8f8a24a57"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Neues Konzept für die Reakkreditierung der Medieninformatik 2017"},"id":"5632754c-196c-4fab-894a-f811a6778a31","isHidden":false,"type":"heading"}],"id":"0129ce72-8b7e-4fa6-8146-9ca52f31fae7","width":"1/1"}],"id":"fd1c8443-3df9-40d4-ae87-6949d35290ee"},{"attrs":[],"columns":[{"blocks":[],"id":"9c9a1793-658e-49a8-9099-3bce833b3207","width":"1/3"},{"blocks":[{"content":{"headline":"","text":"Diese Erfahrungen führten dazu, dass ich bei der Reakkreditierung der Bachelor- und Masterstudiengänge Medieninformatik im Jahr 2017 einen neuen, strukturell und technisch nachhaltigen Ansatz entwickelte. Ziel war es, nicht nur die Qualität und Nachvollziehbarkeit der Modulbeschreibungen zu verbessern, sondern auch deren Pflege, Aktualisierung und Wiederverwendung dauerhaft sicherzustellen.Der entwickelte Workflow basiert auf zwei zentralen Prinzipien:Offene, maschinenlesbare FormateJede Modulbeschreibung liegt als Markdown-Datei mit einem strukturierten YAML-Frontmatter vor, in dem Metadaten wie ECTS, Semester, Lehrform oder Prüfungsart gepflegt werden.Versionskontrolle mit GitDie Dokumente werden in einem Git-Repository verwaltet. Änderungen erfolgen über Pull Requests und Peer Reviews – mit geregleter Aufgabenverteilung zwischen Modulverantwortlichen, Studiengangsleitung und Prüfungsausschuss.","class":""},"id":"bc973227-9488-4f17-be6a-844eb5104d5a","isHidden":false,"type":"text"}],"id":"a4fc506f-f5df-4830-8b6a-417f2d5dd844","width":"2/3"}],"id":"f19e3b38-47cf-40fd-8f7a-858c8d0335c7"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Vorteile des Git-basierten Workflows"},"id":"e889fe45-192b-4e91-ad17-c399549acee5","isHidden":false,"type":"heading"}],"id":"d3b69df8-ba67-4f85-b59f-d378f7902284","width":"1/3"},{"blocks":[{"content":{"headline":"","text":"Der Workflow bringt zahlreiche Vorteile gegenüber der bisherigen Word-basierten Praxis:\n\n**Medienneutralität:** Die Inhalte liegen in einem offenen, nicht-proprietären Format vor. Sie sind unabhängig von spezieller Software und langfristig nutzbar.\n\n**Mehrfachverwendung:** Die Modulbeschreibungen können in verschiedene Ausgabeformate überführt werden – z. B. als HTML für Webseiten, als LaTeX-PDF für offizielle Unterlagen oder als strukturierte Daten für Mengengerüste und Übersichten.\n\n**Kollaborative Pflege:** Änderungen lassen sich semesterweise einpflegen und über versionierte Pull Requests nachvollziehbar dokumentieren. Peer-Review-Prozesse sichern die Qualität.\n\n**Langfristige Transparenz:** Jede Änderung an den Modulbeschreibungen ist dokumentiert und kann bei Bedarf wiederhergestellt werden – inklusive Zeitstempel und Autorenschaft.","class":""},"id":"2a8dac10-67b3-4ae7-9412-a46e80564165","isHidden":false,"type":"text"}],"id":"579dba13-2cc7-4ef1-8d2f-ded807af14a1","width":"2/3"}],"id":"03c2f51a-99f3-4eb5-bb29-2552207ff516"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Skalierung und Weiterentwicklung"},"id":"19f43600-1936-4399-a435-6628b1d0c64b","isHidden":false,"type":"heading"}],"id":"47f55109-b3a6-489d-89cb-b8a60c52ad2b","width":"1/3"},{"blocks":[{"content":{"headline":"","text":"Auf Basis des erfolgreichen Medieninformatik-Projekts wurde der Workflow in weiteren Studiengängen adaptiert. So übernahm der Studiengang Code & Context das System mit spezifischen Erweiterungen durch Matthias Böhmer, ebenso wie später Digital Sciences unter Mitwirkung von Stefan Bente.\n\nMit der Reakkreditierung 2024 wurde der Workflow erneut grundlegend überarbeitet:\n* Die technische Basis wurde aktualisiert (u. a. auf neue Toolchains und Build-Systeme).\n* Die Trennung von Struktur- und Darstellungslogik wurde optimiert.\n* Die Pflege strukturierter Daten wurde noch einfacher und robuster gestaltet.\n\nHeute bildet das System die technische Grundlage für ein fakultätsweites, zentrales Modulverwaltungssystem, das über die Akkreditierung hinaus im regulären Studienbetrieb genutzt wird.","class":""},"id":"6ea1c2e5-e8ee-4902-a97b-5d20fd1ab1d9","isHidden":false,"type":"text"}],"id":"7106fb49-4eb5-411d-a225-4d89c67649d8","width":"2/3"}],"id":"b3366a9f-03a9-422f-bb09-66e83db31f17"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Fazit: Reakkreditierung als Chance für nachhaltige Digitalisierung"},"id":"934f0794-bed3-4c06-9549-1b0a781269bb","isHidden":false,"type":"heading"},{"content":{"headline":"","text":"Die Kombination aus strukturierten Textformaten, versionierbarer Dokumentenpflege und offenen Toolchains zeigt, wie Akkreditierungsprozesse nicht nur effizienter, sondern auch langfristig nachhaltiger gestaltet werden können. Was mit dem Wunsch begann, Word-Chaos zu vermeiden, hat sich zu einem zukunftsweisenden Standard in der digitalen Studiengangsverwaltung entwickelt – offen, kollaborativ und transparent","class":""},"id":"9da4cb3a-3f90-4b2f-b0d2-c285a0e0c1a9","isHidden":false,"type":"text"}],"id":"d01fded9-bedd-45a1-98da-17ab17fef0e0","width":"1/1"}],"id":"404dac55-b769-4d34-b383-92b261f33d86"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"Zu den Projektergebnissen"},"id":"b52a2a05-83be-4e44-a2bd-16f17eab345d","isHidden":false,"type":"heading"},{"content":{"headline":"","text":"- [Reakkreditierung 2024](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/index-reakkreditierung/) | [Repo](https://git.archi-lab.io/medieninformatik/po5/reakkreditierung)\n- [Reakkreditierung 2017](https://th-koeln.github.io/mi-2017/) | [Repo](https://github.com/th-koeln/mi-2017)","class":""},"id":"bf8e081c-1ed9-4679-a708-7549fe7a52ad","isHidden":false,"type":"text"}],"id":"24991154-8f26-443f-b93d-38895ffd06d5","width":"1/3"},{"blocks":[{"content":{"headline":"","text":"","class":""},"id":"747c498a-2ac5-4afc-aa93-0f939055b14b","isHidden":false,"type":"text"}],"id":"f0dcb7b4-6703-4223-8714-d785144ed446","width":"2/3"}],"id":"1981735b-cefe-449e-bfaf-d10f8b5c534a"}]
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 08:30:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 08:30:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 08:30:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: wFl04FcJqQUzNHj7

@@ -1,8 +1,9 @@
 /* stylelint-disable no-descending-specificity */
 /* stylelint-disable selector-class-pattern */
-@media only screen and (width >=60rem) {
+@media (width >=60rem) {
   p,
-  blockquote {
+  blockquote,
+  dl {
     max-width: var(--max-width-text);
   }
 }
@@ -12,7 +13,7 @@
 .page {
   padding-bottom: var(--xl);
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     padding-left: var(--xl);
   }
 }
@@ -31,7 +32,7 @@
     color: var(--darkest) !important;
   }
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     display: grid;
     align-items: center;
     padding: var(--l);
@@ -70,6 +71,15 @@
     font-weight: 300;
   }
 
+  .snippet-list{
+    li{   
+      display: inline-block;
+      padding: var(--xxs) var(--xs);
+      background-color: var(--lightest);
+    }
+  
+  }
+
 }
 
 /* Section
@@ -77,7 +87,7 @@
 .section {
   padding: var(--s);
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     padding: var(--l);
   }
 }
@@ -113,7 +123,7 @@
     margin-bottom: 0;
   }
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     padding: var(--xl);
 
     &>div {
@@ -193,7 +203,7 @@
   font-weight: var(--fw-normal);
   line-height: var(--lh-default);
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     font-size: var(--l);
     font-weight: var(--fw-normal);
   }
@@ -467,7 +477,7 @@ table {
 /* Is Somewhere
 --------------------------------------------------------------------------- */
 .is-somewhere {
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     display: flex;
     padding-right: clamp(1em, 10vw, 20em);
     gap: var(--l);
@@ -561,7 +571,7 @@ h2+.date {
   display: grid;
   row-gap: var(--m);
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     padding-top: var(--s);
     margin-bottom: var(--l);
     column-gap: var(--m);
@@ -589,7 +599,7 @@ nav#main {
     }
   }
 
-  @media only screen and (width >=60rem) {
+  @media (width >=60rem) {
     padding-left: var(--xl);
 
     ul {
@@ -600,6 +610,10 @@ nav#main {
           display: inline-block;
           padding-right: 0.5ch;
           font-size: var(--xl);
+
+          &:hover{
+            color: var(--lightest) !important;
+          }
 
           &::before {
             display: inline-block;
@@ -612,7 +626,7 @@ nav#main {
           &:hover::before {
             padding-right: 0.5ch;
             padding-left: 0.5ch;
-            color: var(--darker);
+            color: var(--lightest);
             transform: rotate(180deg);
           }
         }
@@ -702,7 +716,7 @@ nav#main {
 
 
 
-  @media screen and (width >=20rem) {
+  @media (width >=40rem) {
     display: grid;
     column-gap: var(--m);
     grid-template-columns: max-content 1fr;

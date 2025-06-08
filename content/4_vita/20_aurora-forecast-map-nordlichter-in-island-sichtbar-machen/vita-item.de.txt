@@ -1,0 +1,193 @@
+Title: Aurora Forecast Map – Nordlichter in Island sichtbar machen
+
+----
+
+Headline: Aurora Forecast Map – wann und wo könnten Nordlichter in Island gesehen werden?
+
+----
+
+Text:
+
+Zusammen mit dem isländischen Reiseanbieter Aurora Basecamp entsteht aktuell ein innovatives Kartensystem zur Vorhersage von Polarlichtsichtbarkeit auf Island. Ziel ist es, sowohl Tourist*innen als auch lokalen Guides eine fundierte, visuell verständliche Einschätzung zu geben, wo und wann auf der Insel die Wahrscheinlichkeit am höchsten ist, das faszinierende Naturschauspiel der Nordlichter zu erleben.
+
+Island gehört zu den besten Orten weltweit für die Beobachtung von Polarlichtern – deutlich besser sogar als viele klassische Destinationen wie Norwegen. Dennoch ist die Sichtbarkeit von Nordlichtern stark abhängig von mehreren Faktoren: Sonnenaktivität, Wetterbedingungen, Erreichbarkeit vor Ort und konkreter Standortqualität. Während Norwegen bereits gut entwickelte Informationsangebote für Aurora-Tourismus bietet, fehlte Island bislang eine vergleichbare, benutzerfreundliche Lösung.
+
+Das Projekt bündelt die relevanten Einflussgrößen in einem dynamischen Karteninterface. Neben der aktuellen Aurora-Aktivität (basierend auf Sonnenwetterdaten) werden auch Wolkenbedeckung und Straßenzustand eingebunden – essenzielle Aspekte in einem Land, dessen Straßen im Winter häufig unpassierbar sind. Zusätzlich werden qualitative Standortfaktoren berücksichtigt, etwa Sichtverhältnisse, Geländebeschaffenheit oder Aufenthaltsqualität. So können Nutzer*innen gezielt Orte finden, an denen das Warten auf Nordlichter nicht nur vielversprechend, sondern auch angenehm ist.
+
+Ich habe das Projekt konzeptionell mitentwickelt, den ersten interaktiven Prototypen gebaut und maßgeblich an der Definition der Anforderungsstruktur und der Auswahl relevanter Metriken mitgewirkt. Derzeit befindet sich das Projekt in der Weiterentwicklung und Evaluation vor Ort – mit dem Ziel, das Tool öffentlich zugänglich zu machen und so Islands Potenzial als Nordlichtdestination besser zu kommunizieren.
+
+----
+
+Year: 2025
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur aktuellen Beta-Version](https://auroraforecast.is/map-beta?token=d43a9a0f9798531f5cae4e35bdf40a10bbe736d2)","class":""},"id":"ef4b1ab1-03fe-4f5e-b141-b5038f0b6a89","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"23447e47-0d76-41d6-92a1-9438bd50b1aa","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:10:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: b44KlfKF60BZj9B8

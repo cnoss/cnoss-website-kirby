@@ -1,0 +1,193 @@
+Title: Konferenzkommunikation für die Humboldt-Universität zu Berlin
+
+----
+
+Headline: Konferenzkommunikation für die Humboldt-Universität zu Berlin
+
+----
+
+Text:
+
+Für die Kultur-, Sozial- und Bildungswissenschaftliche Fakultät der Humboldt-Universität zu Berlin habe ich im Jahr 2023 drei individuelle Konferenzwebsites realisiert. Ziel war es, digitale Angebote zu schaffen, die Informationen zu den Veranstaltungen klar strukturieren, einfache Anmeldungen ermöglichen und gleichzeitig das Corporate Design der Universität berücksichtigen. Die Seiten richteten sich an verschiedene Zielgruppen – von Veranstaltenden über Vortragende bis hin zu Teilnehmenden – und sollten sowohl funktional als auch gestalterisch überzeugen.
+
+Da das Budget begrenzt war, habe ich mich früh für den Einsatz eines Static Site Generators (Jekyll) entschieden, um schlank, effizient und modular arbeiten zu können. Das ermöglichte eine schnelle Umsetzung und eine einfache redaktionelle Pflege – auch bei inhaltlichen Änderungen im laufenden Betrieb. Die Konferenzen verteilten sich auf zwei Zeiträume – vor und nach den Sommerferien – was mir erlaubte, das Konzept schrittweise zu verfeinern und gestalterisch auszubauen.
+
+Ich war in diesem Projekt für Konzept, Design, technische Umsetzung und Projektleitung verantwortlich. Gemeinsam mit dem Team rund um Prof. Dr. Marcello Caruso habe ich die Seitenstruktur entwickelt, Templates umgesetzt und die Nutzerführung gestaltet. Für die Hauptkonferenz im Sommer habe ich zusätzlich ein Plakat gestaltet, das den visuellen Auftritt abrundete und zur analogen Sichtbarkeit beitrug.
+
+Besonders wichtig war es hier, eine Lösung zu entwickeln, die auch langfristig nutzbar bleibt: modular, wiederverwendbar und anpassbar für künftige Veranstaltungen. Trotz des sportlichen Zeitplans und der engen Abstimmungen – teils auch in der Sommerpause – ist es gelungen, drei funktionale und ansprechende Websites zu realisieren, die nicht nur technisch stabil laufen, sondern auch vom Organisationsteam durchweg positiv aufgenommen wurden.
+
+----
+
+Year: 2023
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur Konferenzwebsite «BETWEEN DEMOCRACY AND PROGRESS?»](https://klickmeister.github.io/between-democracy-and-progress/)\n- [Zur Konferenzwebsite «Freiheit und Gleichheit in der Bildungsgeschichte»](https://klickmeister.github.io/freiheit-und-gleichheit-in-der-bildungsgeschichte/)\n- [Zur Konferenzwebsite «15. Forum junger Bildungshistoriker:innen»](https://klickmeister.github.io/freiheit-und-gleichheit-in-der-bildungsgeschichte/index-forum-junger-bildungshistoriker/)","class":""},"id":"48475b95-badc-488b-97a4-650c9d1089b6","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:20:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:20:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:20:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: E7IhYXzUptNBGnG0

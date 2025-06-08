@@ -27,18 +27,53 @@ tabs:
             type: textarea
             size: medium            
 
+      projects:
+        type: pages
+        search: true
+        label: Projects
+        layout: table
+        sortBy: Year desc
+        limit: 100
+        query: page.index.filterBy('type', 'in', ['project', 'research'])
+        columns:
+          year: true
+          type: true          
+        template:
+          - vita-item
+        create:
+          - vita-item   
+
+      music:
+        type: pages
+        search: true
+        label: Musik
+        layout: table
+        sortBy: Year desc
+        limit: 100
+        query: page.index.filterBy('type', 'in', ['music'])
+        columns:
+          year: true
+          type: true          
+        template:
+          - vita-item
+        create:
+          - vita-item  
+
       pages:
         type: pages
         search: true
         label: Vita Items
         layout: table
         sortBy: Year desc
+        limit: 100
+        multiple: true
         columns:
           year: true
+          type: true          
         template:
           - vita-item
         create:
-          - vita-item         
+          - vita-item          
 
 
   # Translation tab for multilingual content

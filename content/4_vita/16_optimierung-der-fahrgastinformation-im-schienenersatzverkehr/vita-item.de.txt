@@ -1,0 +1,191 @@
+Title: Optimierung der Fahrgastinformation im Schienenersatzverkehr
+
+----
+
+Headline: Optimierung der Fahrgastinformation im Schienenersatzverkehr, Deutsche Bahn
+
+----
+
+Text:
+
+Im Zuge umfangreicher Bau- und Modernisierungsmaßnahmen im Streckennetz der Deutschen Bahn gewinnt der Schienenersatzverkehr (SEV) zunehmend an Bedeutung. Um Fahrgästen in diesen Situationen eine bessere Orientierung zu ermöglichen, wurde im Rahmen dieses Projekts die Fahrgastinformation im SEV gezielt optimiert.
+
+Kern des Projekts war die Entwicklung einer mobilen, variabel einsetzbaren Anwendung, die es ermöglicht, SEV-Linien klarer darzustellen und ein verständliches Wegeleitsystem bereitzustellen. Fahrgäste erhalten dadurch eine digitale Unterstützung, um von der regulären Abfahrts- oder Ankunftsstation zuverlässig zur entsprechenden Ersatzhaltestelle geführt zu werden – auch bei komplexen Umstiegsituationen.
+
+Meine Aufgaben im Projekt lagen vor allem in der Projektierung: Ich habe Anforderungen aufgenommen und präzisiert, das Projekt dimensioniert, das Team zusammengestellt sowie Zielsetzung und Zeitrahmen definiert. In der frühen Phase habe ich zudem die Umsetzung eng begleitet.
+
+----
+
+Year: 2023
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"516f91ec-7647-44c2-87d8-f9862a990147","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 11:55:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 11:55:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 11:55:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: FfmJUZaDhBr6S0gY

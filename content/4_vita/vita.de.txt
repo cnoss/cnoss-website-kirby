@@ -2,15 +2,27 @@ Title: Vita
 
 ----
 
+Headline: 
+
+----
+
 Text: 
 
 ----
 
-Cover: 
+Meta-title: 
 
 ----
 
-Gallery: 
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
 
 ----
 
@@ -18,7 +30,39 @@ Meta-image:
 
 ----
 
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
 Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
 
 ----
 
@@ -42,11 +86,35 @@ Og-type-article-author:
 
 ----
 
+Og-type-article-section: 
+
+----
+
 Og-type-article-tag: 
 
 ----
 
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
 Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
 
 ----
 
@@ -67,6 +135,14 @@ Robots-noimageindex: default
 ----
 
 Robots-nosnippet: default
+
+----
+
+Cover: 
+
+----
+
+Gallery: 
 
 ----
 

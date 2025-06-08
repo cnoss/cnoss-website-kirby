@@ -1,0 +1,191 @@
+Title: Cranach Search
+
+----
+
+Headline: Cranach Search – Zentrale Suchkomponente des Cranach Digital Archive
+
+----
+
+Text:
+
+Cranach Search ist die zentrale Benutzeroberfläche für die Recherche im Cranach Digital Archive (CDA) und bildet das Herzstück der Anwendung. Ziel war es, die komplexe, vormals monolithische Archivstruktur aufzubrechen und eine eigenständige, transparente und zukunftsfähige Suchkomponente zu entwickeln.
+
+Im Zentrum steht die konsequente Trennung von Datenstruktur und Interface. Die zugrunde liegenden Daten stammen aus dem TMS (The Museum System) und werden über einen XML-Export bezogen. Diese Daten werden durch eine eigens entwickelte Pipeline in ein klar strukturiertes, menschen- und maschinenlesbares JSON-Format überführt. Die innere Datenstruktur orientiert sich dabei an der semantischen Logik der Artefakte – auch auf Kosten einer möglichen Frontend-Optimierung –, um eine langfristige Nachnutzbarkeit zu sichern.
+
+Die Suche wurde zunächst in Gatsby prototypisch entwickelt, das jedoch aufgrund seiner zunehmenden Komplexität und starker Frameworkbindung verworfen wurde. Die finale Realisierung erfolgt in React, unter Verwendung von einfachem, weitgehend frameworkfreiem CSS, wodurch die technische Abhängigkeit bewusst gering gehalten wurde.
+
+Suchanfragen werden über eine separate API-Komponente verarbeitet. Detailansichten verweisen nahtlos auf die Komponente Cranach Artefacts, wo weiterführende Informationen zum jeweiligen Objekt bereitgestellt werden.
+
+Cranach Search ist somit sowohl technisch als auch konzeptionell als modulare, langlebige und wartungsfreundliche Komponente konzipiert und umgesetzt.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2021
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Anwendung](https://lucascranach.org/de/intern/search-internal-preview/?page=1&kind=paintings)\n[Zum GibtHub Repo](https://github.com/lucascranach/cranach-search)","class":""},"id":"e923433d-7544-4efd-b271-0f093d542f47","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Jorge H. F. Pereira](https://github.com/jhfpereira), [Christian Noss](https://github.com/cnoss), [Yannic Brügger](https://github.com/yannic-bruegger), [Markus Alterauge](https://github.com/markusalterauge), [Calvin Hinzer](https://github.com/calvinhnzr)","class":""},"id":"1fd79a78-c2bb-474e-b2cd-d77aa97bb95d","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: 8SzqnyZlvMnWNGch

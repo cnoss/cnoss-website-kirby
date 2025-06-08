@@ -1,0 +1,200 @@
+Title: Toolset Reakkreditierung
+
+----
+
+Headline: Git-basiertes Toolset für die Reakkreditierung – Ein nachhaltiger Workflow für Studiengangsdokumentation
+
+----
+
+Text:
+
+Die Reakkreditierung von Studiengängen ist ein aufwändiger, stark dokumentengetriebener Prozess, bei dem Modulhandbücher, Prüfungsordnungen, Qualifikationsziele und weitere Unterlagen in hoher Qualität erstellt, abgestimmt und gepflegt werden müssen. 2011 habe ich erstmals an einer Reakkreditierung mitgewirkt und war überrascht, wie fehleranfällig und ressourcenintensiv dieser Prozess war. Besonders der manuelle Aufwand bei der Erstellung und Formatierung von Dokumenten – insbesondere Modulhandbüchern – war enorm. Am Ende lagen zahlreiche Word-Dokumente vor, die mühsam zusammengefügt werden mussten, kaum wartbar waren und nur für den jeweiligen Akkreditierungszeitpunkt galten. Eine kontinuierliche Pflege oder Veröffentlichung für Studierende fand oft nicht statt – Aktualisierungen blieben trotz inhaltlicher Änderungen wie neuer Literatur oder wechselnder Lehrender aus.
+
+Diese Erfahrung war für mich der Anlass, bei der Reakkreditierung der Medieninformatik-Studiengänge im Jahr 2017 einen neuen, nachhaltigen Ansatz zu entwickeln. Als verantwortlicher Lehrender habe ich einen Git-basierten Workflow eingeführt, der auf offenen und maschinenlesbaren Dokumenten basiert. Ziel war es, den hohen manuellen Aufwand herkömmlicher Verfahren abzulösen und die erzeugten Inhalte langfristig wartbar und wiederverwendbar zu machen. Jede Modulbeschreibung wurde als eigenständige Markdown-Datei mit strukturierten Metadaten (z. B. ECTS, Semester, Prüfungsform) erfasst und versioniert in einem Git-Repository verwaltet. Git-typische Funktionen wie Branching, Pull Requests und Peer-Reviews ermöglichten kollaboratives Arbeiten, eine einfache Aufgabenverteilung sowie transparente und reproduzierbare Änderungsprozesse.
+
+Die Vorteile dieses Systems sind vielfältig:
+
+* **Medienneutralität**: Inhalte liegen in einem offenen, nicht-proprietären Format vor und sind unabhängig von spezieller Software dauerhaft nutzbar.
+* **Mehrfachverwendung**: Die Daten können flexibel als HTML (z. B. für Webseiten), LaTeX-basiertes PDF (für offizielle Modulhandbücher) oder maschinenlesbare Übersichten und Mengengerüste ausgespielt werden.
+* **Kontinuierliche Pflege**: Änderungen lassen sich semesterweise einpflegen und über abgestimmte Review-Prozesse freigeben.
+* **Langfristige Transparenz**: Jede Änderung ist versioniert dokumentiert und nachvollziehbar.
+
+Auf Basis dieses Workflows wurden nicht nur die Medieninformatik-Studiengänge erfolgreich reakkreditiert, sondern auch Folgeprojekte realisiert: Der Studiengang *Code & Context* adaptierte das System mit Erweiterungen durch Matthias Böhmer, ebenso wie später *Digital Sciences* unter Leitung von Stefan Bente.
+
+Im Zuge der Reakkreditierung 2024 wurde das System konzeptionell und technisch weiterentwickelt. Die Trennung von Struktur- und Darstellungslogik wurde verbessert, die technische Basis aktualisiert und die Pflege strukturierter Daten nochmals vereinfacht. Inzwischen bildet das Toolset die Grundlage eines fakultätsweiten, zentralen Systems zur Verwaltung von Modulbeschreibungen.
+
+----
+
+Year: 2016
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: true
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Reakkreditierung 2024](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/index-reakkreditierung/) | [Repo](https://git.archi-lab.io/medieninformatik/po5/reakkreditierung)\n- [Reakkreditierung 2017](https://th-koeln.github.io/mi-2017/) | [Repo](https://github.com/th-koeln/mi-2017)","class":""},"id":"87bf24e5-3f62-491b-aa37-c916d5877c29","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: fgPFxeqAOLqYTOg2

@@ -1,0 +1,187 @@
+Title: Websites zu den Lehrveranstaltungen
+
+----
+
+Headline: Websites für Lehrveranstaltungen – Sichtbarkeit und Transparenz in der Lehre
+
+----
+
+Text:
+
+Für meine Lehrveranstaltungen erstelle ich seit einiger Zeit eigenständige Websites, weil ich es schade finde, dass viele Inhalte in klassischen Lernplattformen wie ILIAS oder ILU zwar gut zugänglich, aber eben nicht sichtbar für die Öffentlichkeit sind. Gerade in der Medieninformatik entstehen häufig spannende Projekte, Diskussionen und Formate, die nicht nur für unsere Studierenden relevant sind, sondern auch für Studieninteressierte oder Fachkolleg\*innen außerhalb der Hochschule.
+
+Deshalb habe ich mich dazu entschieden, für jede Veranstaltung eine eigene Website aufzusetzen und mit den wichtigsten Informationen zu Ablauf, Inhalten, Terminen und oft auch zu Gastvorträgen oder weiterführenden Materialien auszustatten. Die Seiten basieren auf offenen Webtechnologien und werden statisch generiert, was sie leichtgewichtig, schnell und nachhaltig wartbar macht.
+
+Mir ist wichtig, dass diese Seiten nicht nur eine Informationsquelle für meine Studierenden sind, sondern auch eine gewisse Sichtbarkeit erzeugen. Durch die öffentliche Zugänglichkeit und die Auffindbarkeit über Suchmaschinen leisten sie einen Beitrag zur Transparenz der Lehre – und geben Außenstehenden einen realistischen Einblick in die Themen, Methoden und Projekte, mit denen wir uns im Studium beschäftigen. Ergänzende Tools wie Miro oder ILU nutze ich dort, wo sie den Arbeitsfluss erleichtern – aber die Website bleibt in der Regel die zentrale Anlaufstelle für Planung und Kommunikation. Das hat sich als Format bewährt – sowohl für mich als Lehrender als auch für die Studierenden.
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Year: 2016
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Screendesign](https://th-koeln.github.io/mi-bachelor-screendesign/) | [Repo](https://github.com/th-koeln/mi-bachelor-screendesign)\n- [Master Schwerpunkt Weaving the Web](https://th-koeln.github.io/mi-master-wtw/) | [Repo](https://github.com/th-koeln/mi-master-wtw)\n- [Entwicklungsprojekt](https://cnoss.github.io/entwicklungsprojekt/) | [Repo](https://github.com/cnoss/entwicklungsprojekt)\n- [Generative Gestaltung](https://cnoss.github.io/generative-gestaltung/) | [Repo](https://github.com/cnoss/generative-gestaltung)\n- [Abschlussarbeiten](https://cnoss.github.io/thesis/) | [Repo](https://github.com/cnoss/thesis)\n- [Vertiefungsmodul Web Development](https://th-koeln.github.io/mi-bachelor-webdevelopment/) | [Repo](https://github.com/th-koeln/mi-bachelor-webdevelopment)\n- [Praxisprojekt Seminar](https://th-koeln.github.io/mi-bachelor-praxisprojektseminar/) | [Repo](https://github.com/th-koeln/mi-bachelor-praxisprojektseminar)\n- [Workshop Pen & Paper](https://cnoss.github.io/pen-and-paper/) | [Repo](https://github.com/cnoss/pen-and-paper)","class":""},"id":"fd9b5374-06eb-4c4d-8a6b-8952f6ab1fdc","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: 9GQ7VqAnKxtG9m1P

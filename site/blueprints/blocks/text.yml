@@ -1,0 +1,19 @@
+name: Text
+icon: list-bullet
+label: "{{ headline }}"
+wysiwyg: false
+tabs:
+  content:
+    fields:
+      headline:
+        label: Überschrift
+        type: text
+      text:
+        label: Mengentext
+        type: textarea
+        size: small
+      class:
+        type: multiselect
+        options:
+          herotext: Hero
+          normal: normal   

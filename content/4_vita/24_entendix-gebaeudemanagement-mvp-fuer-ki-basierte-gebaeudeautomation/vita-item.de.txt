@@ -1,0 +1,191 @@
+Title: Entendix Gebäudemanagement – MVP für KI-basierte Gebäudeautomation
+
+----
+
+Headline: Entendix Gebäudemanagement – MVP für KI-basierte Gebäudeautomation
+
+----
+
+Text:
+
+Für die Entendix GmbH, ein Startup aus Köln im Bereich Gebäudeautomation, habe ich die Projektierung und initiale Umsetzung eines webbasierten MVP begleitet. Ziel war es, innerhalb kurzer Zeit eine marktfähige Anwendung zu entwickeln, mit der Entendix seine KI-basierte Onboarding-Technologie für Gebäudesteuerungssysteme potenziellen Kunden präsentieren kann.
+
+Ich war verantwortlich für die Anforderungsdefinition, das Team-Setup sowie erste Layouts zur Strukturierung und Visualisierung der Anwendung. In enger Abstimmung mit dem Kunden habe ich das Projekt in der frühen Phase begleitet, klare Zielvorgaben mitentwickelt und die technische Umsetzung im weiteren Verlauf koordiniert.
+
+Die Anwendung basiert auf einem modernen Frontend-Stack mit Vue.js und TypeScript, ergänzt durch eine Middleware zur Aufbereitung strukturierter Anlagendaten. Der MVP konnte nach wenigen Wochen erfolgreich vorgestellt werden und bildet heute die Grundlage für weitere Produktentwicklung und Vertrieb.
+
+----
+
+Year: 2024
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"5e0c6642-fa07-4c43-9e64-f5e72fed9f92","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:25:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:25:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:25:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: hzfL5TmJ0xbE01bn

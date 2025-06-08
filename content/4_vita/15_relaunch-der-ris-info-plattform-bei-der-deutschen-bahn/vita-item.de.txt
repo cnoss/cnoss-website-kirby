@@ -1,0 +1,191 @@
+Title: Relaunch der RIS-Info-Plattform bei der Deutschen Bahn
+
+----
+
+Headline: Relaunch der RIS-Info-Plattform bei der Deutschen Bahn
+
+----
+
+Text:
+
+Die RIS-Info-Plattform ist eine der meistgenutzten internen Anwendungen im DB-Konzern. Sie bündelt eine Vielzahl interner Informationskanäle und dient als zentrale Anlaufstelle für Mitarbeitende unterschiedlichster Bereiche. Im Rahmen des Relaunchs wurde die Plattform technisch, gestalterisch und funktional umfassend modernisiert.
+
+Ziel war es, die in die Jahre gekommene Systemarchitektur zu überarbeiten, mobile Endgeräte adäquat zu unterstützen und die Integration zusätzlicher Informationsquellen und Schnittstellen zu ermöglichen. Besonderes Augenmerk lag dabei auf der Modularität und Flexibilität der neuen Lösung – insbesondere im Hinblick auf die heterogenen Anforderungen verschiedener Stakeholder. Gleichzeitig wurde das aktuelle UX-Design der Deutschen Bahn umgesetzt.
+
+Meine Rolle im Projekt umfasste die strategische Projektierung, die Zusammenstellung des Teams sowie die Begleitung der Design- und Implementierungsphase. Seit dem erfolgreichen Relaunch wächst die Plattform kontinuierlich weiter. Wir begleiten den Ausbau fortlaufend – mit dem Ziel, zusätzliche Schnittstellen anzubinden und die Usability weiter zu optimieren.
+
+----
+
+Year: 2020
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"d3bac0d0-9a2e-4458-85c9-20e402d7c496","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 11:50:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 11:50:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 11:50:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: KzPNhxFPLHDKsaHI

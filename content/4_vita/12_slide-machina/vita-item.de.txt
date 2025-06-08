@@ -1,0 +1,187 @@
+Title: Slidedeck Machina: 11ty + Reveal.js
+
+----
+
+Headline: Slidedeck Machina – Markdown-basierte Präsentationsplattform
+
+----
+
+Text:
+
+Slide Deck Maschina ist ein webbasiertes Präsentationssystem, das entwickelt wurde, um die Erstellung und Pflege von Vorlesungs- und Lehrfolien effizienter und nachhaltiger zu gestalten. Ausgangspunkt war die Beobachtung, dass klassische Werkzeuge wie PowerPoint oder Keynote in der täglichen Lehrpraxis schnell an ihre Grenzen stoßen – insbesondere, wenn Inhalte regelmäßig aktualisiert oder mit mehreren Personen gemeinsam bearbeitet werden sollen.
+
+Die Anwendung basiert auf einem offenen, textbasierten Workflow: Inhalte werden in Markdown verfasst, in einem Git-Repository versioniert und mit Hilfe von Eleventy als Static Site Generator zu HTML-Präsentationen verarbeitet. Für die Präsentationslogik kommt das Framework Reveal.js zum Einsatz, das speziell angepasst wurde, um ein eigenes, flexibles Layoutsystem zu ermöglichen. Dieses Setup erlaubt es, Designänderungen zentral vorzunehmen und Präsentationen langfristig wartbar zu halten.
+
+Slide Deck Maschina eignet sich besonders für Lehrszenarien, in denen technische Inhalte wie Code, Live-Demos oder interaktive Beispiele eine Rolle spielen. Da die Präsentationen direkt im Browser laufen, lassen sich Programmierbeispiele nicht nur anzeigen, sondern auch direkt nutzen. Die enge Verzahnung mit Git erleichtert die Zusammenarbeit im Team, erlaubt saubere Review-Prozesse und macht Änderungen jederzeit nachvollziehbar.
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Year: 2022
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur Anwendung](https://cnoss.github.io/slides/)\n- [Zum GitHub Repo](https://github.com/cnoss/slides)","class":""},"id":"7963e129-dc16-45d0-9dd4-1f4c77181452","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:40:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:40:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:40:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: HodAYlDDmZZTpufm

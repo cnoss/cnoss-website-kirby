@@ -5,5 +5,7 @@
 @import url("base.css");
 @import url("components.css");
 @import url("templates.css");
+@import url("layouts.css");
 @import url("eyecandy.css");
+@import url("print.css");
 @import url("utilities.css");

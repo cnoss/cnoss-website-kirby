@@ -55,7 +55,7 @@ h1{
   font-size: var(--l);
   font-weight: var(--fw-bold);
 
-  @media only screen and (width >= 40rem) {
+  @media (width >= 40rem) {
     font-size: var(--xl);
     font-weight: var(--fw-normal);
   }
@@ -66,7 +66,7 @@ h2{
   font-size: var(--l);
   font-weight: var(--fw-medium);
 
-  @media only screen and (width >= 40rem) {
+  @media (width >= 40rem) {
     font-size: var(--l);
     font-weight: var(--fw-medium);
   }
@@ -96,7 +96,9 @@ ul{
     margin-bottom: var(--xs);
   }
 
-  &.list{
+  &.list,
+  .vita-item-data &,
+  .layout-blocks &{
     li{
       display: block;
       margin-bottom: var(--s);
@@ -106,8 +108,8 @@ ul{
         padding-right: var(--s);
         margin-left: calc(var(--m) * -1);
         color: var(--color-seperator);
-        content:"-";
-        font-weight: var(--fw-bold);
+        content:"»";
+        font-weight: var(--fw-light);
       }
     }
   }
@@ -136,7 +138,7 @@ dl{
 .title{
   font-weight: var(--fw-bold);
 
-  @media only screen and (width >= 40rem) {
+  @media (width >= 40rem) {
     font-weight: var(--fw-normal);
   }
 }
@@ -146,7 +148,7 @@ dl{
   font-weight: var(--fw-medium);
   line-height: var(--lh-default);
 
-  @media only screen and (width >= 40rem) {
+  @media (width >= 40rem) {
     font-weight: var(--fw-normal);
   }
 }

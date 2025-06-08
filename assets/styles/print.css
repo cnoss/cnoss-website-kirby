@@ -1,0 +1,119 @@
+@media print {
+  :root {
+    --faktor: 0.7;
+    --dark: hsl(0deg 0% 70% / 100%);
+    --darker: hsl(0deg 0% 80% / 100%);
+    --darkest: hsl(0deg 0% 100% / 100%);
+    --darken: rgb(255 255 255 / 20%);
+    --darken-strong: rgb(255 255 255 / 60%);
+    --light: hsl(0deg 0% 20% / 100%);
+    --lighter: hsl(0deg 0% 10% / 100%);
+    --lightest: #000;
+    --lighten: rgb(0 0 0 / 20%);
+    --lighten-strong: rgb(0 0 0 / 60%);
+    --color-text: var(--light);
+    --green: #A941F4;
+
+  }
+
+  .grid-list {
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: 8rem 1fr;
+    grid-template-rows: auto;
+
+    .vita-item-title {
+      margin-top: 0;
+    }
+  }
+
+
+  #scroll-to-top,
+  .main-footer,
+  .main-header,
+  iframe,
+  .footer {
+    display: none;
+  }
+
+  .vita-item-data .title {
+    text-wrap: balance;
+  }
+
+  a {
+    text-decoration-line: dotted;
+    text-decoration-thickness: 1px;
+  }
+
+  .section {
+    padding: 0;
+  }
+
+  .semi-brutal {
+    color: var(--lighten);
+  }
+
+  .vita-section-title {
+    color: var(--light);
+  }
+
+  .vita-text{
+    strong{
+      color: var(--lightest);
+      font-weight: var(--fw-normal);
+    }
+  }
+
+  body {
+    background-color: var(--darkest);
+    ;
+  }
+
+  @page {
+    margin: 2cm 1.5cm 3cm 3cm;
+    size: a4 portrait;
+
+    @bottom-left {
+      color: var(--light-strong);
+      content: "Prof. Christian Noss // " counter(page) " von " counter(pages);
+    }
+  }
+
+  h1,
+  h2,
+  .vita-section-title {
+    page-break-after: avoid;
+    page-break-before: auto;
+  }
+
+  .vita-item-title,
+  .vita-item-data {
+    page-break-inside: avoid;
+  }
+
+  .vita-item-title {
+    page-break-after: avoid;
+  }
+
+  .vita-item-data {
+    .title {
+      font-weight: var(--fw-normal);
+    }
+
+    a {
+      font-weight: var(--fw-normal);
+    }
+  }
+
+  .competence-list {
+    display: none;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .header {
+    display: none;
+  }
+}

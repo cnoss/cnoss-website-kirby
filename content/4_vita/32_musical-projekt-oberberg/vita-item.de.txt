@@ -1,0 +1,185 @@
+Title: Musical Projekt Oberberg
+
+----
+
+Headline: Musical Projekt Oberberg
+
+----
+
+Text: Beim Musical Projekt Oberberg durfte ich bei zwei Produktionen das Schlagzeug betätigen: [Tabaluga](https://neu.musical-projekt-oberberg.de/portfolio/tabaluga-1995) und beim [David Copperfield Musical](https://neu.musical-projekt-oberberg.de/portfolio/das-david-copperfield-musical-i-1997). Gute Sache mit jeder Menge Aufführungen die mich echt nach vorne gebracht haben.
+
+----
+
+Year: 1995
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 1997
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: music
+
+----
+
+Since: false
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zur Website](https://neu.musical-projekt-oberberg.de)","class":""},"id":"3dad4adb-6691-4336-a432-8a0936a467d0","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-08 08:15:00
+
+----
+
+Og-type-article-modified-time: 2025-06-08 08:15:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-08 08:15:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: O68pCmKMrdXe183Q

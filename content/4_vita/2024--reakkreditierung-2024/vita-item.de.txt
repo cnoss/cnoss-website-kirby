@@ -6,9 +6,13 @@ Headline: Verantwortlicher Lehrender bei der Reakkreditierung der Medieninformat
 
 ----
 
-Type:
+Text: [Website zur Reakkreditierung](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/index-reakkreditierung/)
 
-university-related-commitment
+----
+
+Type: university-related-commitment
+
+----
 
 Since: false
 
@@ -18,15 +22,159 @@ Year: 2023
 
 ----
 
+Month: 
+
+----
+
+Day: 
+
+----
+
 Yearuntil: 2024
 
 ----
 
-Downloads: /uploads/
+Monthuntil: 
 
 ----
 
-Text: [Website zur Reakkreditierung](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/index-reakkreditierung/)
+Dayuntil: 
+
+----
+
+Additionalcontent: 
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
 
 ----
 

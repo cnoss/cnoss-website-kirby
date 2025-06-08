@@ -1,0 +1,191 @@
+Title: ARlebnis OBK
+
+----
+
+Headline: ARlebnis OBK – Augmented-Reality-Pfade durch Kultur und Geschichte des Oberbergischen Kreises
+
+----
+
+Text:
+
+Das Projekt ARlebnis OBK wurde von März bis Dezember 2023 vom Advanced Media Institute der Technischen Hochschule Köln in Zusammenarbeit mit verschiedenen Bildungseinrichtungen und Kommunen aus dem Oberbergischen Kreis realisiert. Ziel war es, digitale Teilhabe zu fördern und der Bevölkerung einen niedrigschwelligen, erlebnisorientierten Zugang zur regionalen Kultur und Geschichte zu ermöglichen.
+
+Kern des Projekts war die Entwicklung eines webbasierten Frameworks, das es Nutzer*innen erlaubt, barrierearme AR-Touren eigenständig zu erkunden – etwa durch die Städte Gummersbach oder Wipperfürth. Dabei kamen ortsbasierte Augmented-Reality-Spots zum Einsatz, die mit Hilfe von QR-Codes aktiviert werden und historische Inhalte über Bild, Ton, Video und 3D-Modelle vermitteln. Besonderes Augenmerk lag auf Inklusion: Untertitel, Gebärdensprache und ortsunabhängiger Zugang ermöglichen auch sinnes- oder mobilitätseingeschränkten Personen eine Teilnahme.
+
+Das Projekt wurde in enger Kooperation mit der VHS Oberberg, dem Katholischen Bildungswerk, der Stadt Wipperfürth, der Stadt Wiehl, kirchlichen Trägern und weiteren Partnern umgesetzt. Diese stellten neben inhaltlichem Know-how auch multimediale Inhalte und Konzepte bereit. Die technische Umsetzung, Systemarchitektur und Betreuung studentischer Beiträge lag beim Advanced Media Institute.
+
+Im Verlauf entstanden mehrere Prototypen auf Basis von Open-Source-Technologien (u. a. A-Frame, AR.js, MindAR). Die Plattform ist dynamisch angelegt, sodass weitere Inhalte und Touren ergänzt werden können. Insgesamt wurden 10–15 Studierende in das Projekt eingebunden, die unter anderem Praxisprojekte, Lehrveranstaltungen und Abschlussarbeiten zur Weiterentwicklung beitrugen.
+
+Im Januar 2024 wurde der Prototyp im Inno-Hub der TH Köln präsentiert und anschließend dem Oberbergischen Kreis offiziell übergeben.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2023
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2024
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Website](https://arlebnisobk.de)\n[Zum Repo](https://github.com/ARlebnispfade-Oberbergischer-Kreis/ar-lebnispfade)","class":""},"id":"913aa279-c097-43c7-bc2b-aa650ecda84c","isHidden":false,"type":"text"},{"content":{"headline":"","text":"**Mitwirkende**\n[Mario Faske](https://github.com/mariofaske), [Christian Noss](https://github.com/cnoss)","class":""},"id":"ac923ca8-2bc2-4f78-a24e-16ee764d8d42","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:30:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: L2cOXNPHoKHm4wYC

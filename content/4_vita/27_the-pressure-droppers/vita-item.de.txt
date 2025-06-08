@@ -1,0 +1,185 @@
+Title: The Pressure Droppers
+
+----
+
+Headline: The Pressure Droppers
+
+----
+
+Text: Traditional Ska aus Köln mit einigen wirklich beachtlichen Konzerten in Deutschland und Belgien, u.A. als Support für [The Skatalites](https://de.wikipedia.org/wiki/The_Skatalites), [The Toasters](https://de.wikipedia.org/wiki/The_Toasters), [The Upsessions](https://www.theupsessions.com), [The Aggrolites](https://de.wikipedia.org/wiki/The_Aggrolites), [The Upper Tones](https://www.theuppertones.com), [Outernational](https://javottimedia.com/artists/outernational/).
+
+----
+
+Year: 2013
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2018
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: music
+
+----
+
+Since: false
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [Zum Youtube Kanal](https://www.youtube.com/@thepressuredroppers4687)\n- [Zur Facebook Seite](https://www.facebook.com/pressuredroppers)\n- [Zu Spotify](https://open.spotify.com/intl-de/artist/2HLJqQmltRxAUHkEdkDV9s?si=ZpzffBcHSNW1yVQWGwMpYg)","class":""},"id":"146d2898-a626-4886-8ae5-605f53d73149","isHidden":false,"type":"text"},{"content":{"headline":"","text":"<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/artist/2HLJqQmltRxAUHkEdkDV9s?utm_source=generator&theme=0\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","class":""},"id":"c9c93dd2-f401-46c0-a220-a01e25b64cab","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: - file://oW5kXtKztBp09pxH
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-08 07:10:00
+
+----
+
+Og-type-article-modified-time: 2025-06-08 07:10:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-08 07:10:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: j6ok0Sg5VWQupWhr

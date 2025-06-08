@@ -1,0 +1,187 @@
+Title: Cranach Compare
+
+----
+
+Headline: Cranach Compare – Bildvergleich im Cranach Digital Archive
+
+----
+
+Text:
+
+Cranach Compare ist eine leichtgewichtige Webanwendung innerhalb des Cranach Digital Archive (CDA), die einen direkten visuellen Vergleich zweier Abbildungen ermöglicht. Nutzer*innen können aus ihrer persönlichen Sammlung – dem sogenannten Stack – zwei Werke oder Darstellungen auswählen, um sie nebeneinander anzuzeigen.
+
+Die Anwendung eignet sich insbesondere für Vergleiche zwischen verschiedenen Fassungen eines Motivs oder zwischen einer Vorzeichnung und dem finalen Gemälde. Über Zoom- und Pan-Funktionen kann parallel in beide Bilder navigiert werden. Eine besondere Funktion erlaubt das Festsetzen des Viewports: Bewegungen oder Zooms in einem Bild werden automatisch im zweiten synchronisiert, sodass beide Ansichten stets auf dieselbe Bildregion fokussieren.
+
+Technisch basiert Cranach Compare auf einer einfachen HTML-/CSS-/JavaScript-Architektur mit [Reef](https://reef.gomakethings.com) als kompaktem JavaScript-Framework im Hintergrund. Die Anwendung ist als integriertes Werkzeug des CDA konzipiert und unterstützt die kunsthistorische Analyse durch eine intuitive, bildzentrierte Benutzerführung.
+
+----
+
+Type: research
+
+----
+
+Since: false
+
+----
+
+Year: 2022
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"[Zur Anwendung](https://lucascranach.org/cranach-compare/index.html)\n[Zum GitHub Repo](https://github.com/lucascranach/cranach-compare/tree/main)","class":""},"id":"0344ab81-f085-4b72-82c8-78ad2f42c04d","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-modified-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-05 10:35:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: yv2o0KdeOlTYxGgU

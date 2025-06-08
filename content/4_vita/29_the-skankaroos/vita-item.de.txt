@@ -1,0 +1,185 @@
+Title: The Skankaroos
+
+----
+
+Headline: The Skankaroos
+
+----
+
+Text: Ska mit echtem [Hitpotenzial](https://www.youtube.com/watch?v=j0BNeEHiabc). Bunte Band mit jeder Menge Konzerte in Köln, NRW und im ganzen Bundesgebiet, u.A. Support für [The Skatalites](https://de.wikipedia.org/wiki/The_Skatalites) im Kölner Stadtgarten.
+
+----
+
+Year: 2008
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 2013
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: music
+
+----
+
+Since: false
+
+----
+
+Klickmeister: false
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"- [The Skankaroos auf Backstage Pro](https://www.backstagepro.de/theskankaroos)\n- [Zum YouTube Kanal](https://www.youtube.com/@TheSkankaroos)\n- [Zu Spotify](https://open.spotify.com/intl-de/artist/3PH35cpbv8VQ5h38zApixp?si=wBHuxjpZQQW-Roi3WzpwjQ)","class":""},"id":"8424bf2a-cd24-4fc7-b4e0-09b1dcde3727","isHidden":false,"type":"text"},{"content":{"headline":"","text":"<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/artist/3PH35cpbv8VQ5h38zApixp?utm_source=generator&theme=0\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>","class":""},"id":"3a8986e8-9b72-4d87-8ebb-f53dd88bf62a","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-08 07:50:00
+
+----
+
+Og-type-article-modified-time: 2025-06-08 07:50:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-08 07:50:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: PSOHGQyFI1DeRPgJ

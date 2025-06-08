@@ -1,0 +1,191 @@
+Title: Störfallkarten für S-Bahnen – Editierbare Kartenlösungen im Störungsfall
+
+----
+
+Headline: Störfallkarten für S-Bahnen – Editierbare Kartenlösungen im Störungsfall
+
+----
+
+Text:
+
+Im Rahmen der Zusammenarbeit mit dem MAPS-Team der Deutschen Bahn wurde ein Tool entwickelt, das S-Bahn-Betriebe – unter anderem die S-Bahn München – dabei unterstützt, im Störungsfall schnell und eigenständig zu reagieren. Ziel war es, ein zentrales, flexibles System bereitzustellen, mit dem Störfallkarten erstellt, bearbeitet und über unterschiedliche Kanäle verteilt werden können.
+
+Bei Bauarbeiten, Unfällen oder anderen betrieblichen Einschränkungen treten häufig Ersatzfahrpläne in Kraft, die klar kommuniziert werden müssen. Das neue Tool ermöglicht es den verantwortlichen Stellen, entsprechende Karten schnell zu generieren – sowohl digital als auch druckfähig –, sie in die Fahrzeugsysteme zu integrieren und über digitale Plattformen zur Verfügung zu stellen.
+
+Ich war verantwortlich für die Projektierung, habe das initiale Architekturkonzept mitentwickelt, Anforderungen konsolidiert und präzisiert sowie die Zielsetzung formuliert. In der frühen Phase habe ich das Projekt konzeptionell und organisatorisch begleitet. Die Anwendung ist mittlerweile produktiv im Einsatz, wird von verschiedenen S-Bahnen genutzt und kontinuierlich weiterentwickelt.
+
+----
+
+Year: 2019
+
+----
+
+Month: 
+
+----
+
+Day: 
+
+----
+
+Yearuntil: 
+
+----
+
+Monthuntil: 
+
+----
+
+Dayuntil: 
+
+----
+
+Type: project
+
+----
+
+Since: false
+
+----
+
+Klickmeister: true
+
+----
+
+Additionalcontent: [{"content":{"headline":"","text":"**Mitwirkende:**\n[Klickmeister Team](https://www.klickmeister.de/de)","class":""},"id":"62d77349-ff7a-452f-b9ab-9466b22a395b","isHidden":false,"type":"text"}]
+
+----
+
+Downloads: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: website
+
+----
+
+Og-type-article-published-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-modified-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-expiration-time: 2025-06-07 12:00:00
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: default
+
+----
+
+Robots-nofollow: default
+
+----
+
+Robots-noarchive: default
+
+----
+
+Robots-noimageindex: default
+
+----
+
+Robots-nosnippet: default
+
+----
+
+Uuid: S0Dio24ESTvAYco4
